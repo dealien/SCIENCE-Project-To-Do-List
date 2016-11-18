@@ -1,1 +1,1 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+This is a list of all the SCIENCE projects undertaken by the [Disciples of SCIENCE](https://socialclub.rockstargames.com/crew/disciples_of_science) crew in GTA Online. This list is written and updated by none other than their leader, [Vyren11](https://socialclub.rockstargames.com/member/vyren11). 
