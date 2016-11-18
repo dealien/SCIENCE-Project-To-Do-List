@@ -1,7 +1,8 @@
-**Status:** Failed
-**Reason for Failure:** The Rhino is far too heavy for the Tug
+**Status:** Failed<br>
+**Reason for Failure:** The Rhino is far too heavy for the Tug<br><br>
 
-**Report:** We got a Tug, a Rhino tank and a Cargobob to the south side of the Alamo Sea near Sandy Shores. We sailed the Tug about halfway across the lake, then used the Cargobob to carry the Rhino tank to the Tug. 
+###Report
+We got a Tug, a Rhino tank and a Cargobob to the south side of the Alamo Sea near Sandy Shores. We sailed the Tug about halfway across the lake, then used the Cargobob to carry the Rhino tank to the Tug. 
 
 We were very careful in loading the Rhino onto the boat. Even so, as soon as the Rhino landed on the Tug, the they both just dropped like a stone to the bottom of the lake. 
 
