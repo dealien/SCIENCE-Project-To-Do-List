@@ -9,3 +9,6 @@ We got a Tug, a Rhino tank and a Cargobob to the south side of the Alamo Sea nea
 We were very careful in loading the Rhino onto the boat. Even so, as soon as the Rhino landed on the Tug, they both just dropped like a stone to the bottom of the lake. 
 
 There was nobody in the Rhino and one person on the Tug. It was the weight of the Rhino alone that brought the Tug down. 
+
+
+##Records
