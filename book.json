@@ -1,7 +1,8 @@
 {
     "plugins": [
         "theme-faq",
-        "tasklist"
+        "tasklist",
+        "multipart"
     ],
     "pluginsConfig": {}
 }
