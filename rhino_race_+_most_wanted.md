@@ -13,7 +13,9 @@ A group of people get Rhino tanks and head to the Vinewood Racetrack. Then we st
 ## Report
 Brilliant success! We half expected the tanks to get destroyed immediately, but they actually took no visible damage during the ten minute run. All three of us survived the entire mission. 
 
-The problem was that the tanks could ride up on the fence surrounding the track and get stuck. 
+The problem was that the tanks could ride up on the fence surrounding the track and get stuck. Normally we might ask another participant to help us get unstuck. However, because of Most Wanted we were all ghosted to one another and therefore unable to collide. 
+
+The ghosting was useful as it prevented us from blowing each other up by accident. 
 
 In the end, GRILT finished in first place, Vyren came in second, and cnc was last. 
 
