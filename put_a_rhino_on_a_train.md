@@ -8,7 +8,7 @@
 
 
 ## Info
-It's all in the title. Get a Rhino tank and put it onto a flatbed car of a train
+It's all in the title. Get a Rhino tank and put it into a flatbed car of a train
 
 ## Report
 
