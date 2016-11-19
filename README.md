@@ -4,3 +4,4 @@ This is a list of all the SCIENCE projects undertaken by the [Disciples of SCIEN
 * Put motorcycles in the back of a Benson truck
 * Put a Rhino tank on a train
 * Glitch into a train cabin
+* Rhino race + Most Wanted
