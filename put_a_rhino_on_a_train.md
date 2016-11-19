@@ -1,4 +1,4 @@
-# Put a Rhino on a Train
+# Put a Rhino on a train
 
 **Status:** Success
 
@@ -8,7 +8,7 @@
 
 
 ## Info
-
+It's all in the title. Get a Rhino tank and put it onto a flatbed car of a train
 
 ## Report
 
