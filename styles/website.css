@@ -9,10 +9,7 @@ p, li, #current-projects {
   color: #000000;
 }
 
-a {
+a, a:visited {
     color: #bf11de;
-}
-
-a:hover {
-    color: #bf11de;
+    text-decoration: none;
 }
