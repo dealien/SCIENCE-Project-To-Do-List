@@ -1,4 +1,4 @@
-# Rhino Race + Most Wanted
+# Rhino race + Most Wanted
 
 **Status:** Unattempted
 
