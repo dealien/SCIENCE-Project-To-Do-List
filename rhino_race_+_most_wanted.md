@@ -13,6 +13,8 @@ A group of four people get Rhino tanks and head to the Vinewood Racetrack. Then 
 ## Report
 Brilliant success! We half expected the tanks to get destroyed immediately, but they actually took no visible damage during the ten minute run. All three of us survived the entire mission. 
 
-The 
+The problem was that the tanks could ride up on the fence surrounding the track and get stuck. 
+
+In the end, GRILT finished in first place, Vyren came in second, and cnc was last. 
 
 ## Records
