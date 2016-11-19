@@ -6,3 +6,4 @@ Don't ask why it says "FAQ" everywhere. It just does and there's nothing I can d
 * Put motorcycles in the back of a Benson
 * Put a Rhino on a train
 * Glitch into a train cabin
+* Pick up a Bus with a Cargobob
