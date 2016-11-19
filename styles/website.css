@@ -9,12 +9,12 @@ p, li, #current-projects {
   color: #000000;
 }
 
-a, a:visited, a:hover {
+.description a, description a:visited, description a:hover {
     color: #bf11de;
     text-decoration: none;
 }
 
-a:hover {
+description a:hover {
     color: #bf11de;
     text-decoration: underline;
 }
