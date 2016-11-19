@@ -8,7 +8,7 @@
 
 
 ## Info
-It's all in the title. Get a Rhino tank and put it into a flatbed car on a train
+It's all in the title. Get a Rhino tank and put it into a flatbed car on a train, just like we did with the Prison Bus. 
 
 ## Report
 
