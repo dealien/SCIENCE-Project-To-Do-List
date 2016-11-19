@@ -13,3 +13,7 @@ a, a:visited {
     color: #bf11de;
     text-decoration: none;
 }
+
+a:hover {
+    text-decoration: underline;
+}
