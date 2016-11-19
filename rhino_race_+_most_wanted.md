@@ -8,7 +8,7 @@
 
 
 ## Info
-A group of four people get Rhino tanks and head to the Vinewood Racetrack. Then we start Most Wanted from the "CEO Work" menu and have a "race" around the track. Whoever survives the longest wins. 
+A group of four people get Rhino tanks and head to the Vinewood Racetrack. Then we start Most Wanted from the "CEO Work" menu and have a "race" around the track. Whoever does the most laps in the ten minutes for Most Wanted wins the race. 
 
 ## Report
 Brilliant success! We half expected the tanks to get destroyed immediately, but they actually took no visible damage during the ten minute run. All three of us survived the entire mission. 
