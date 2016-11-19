@@ -3,6 +3,9 @@
 
 **Reason for Failure:** The Rhino is far too heavy for the Tug
 
+## Info
+Because wouldn't it be cool to just cruise around with a massive turreted boat? I thought so. 
+
 ## Report
 We got a Tug, a Rhino tank and a Cargobob to the south side of the Alamo Sea near Sandy Shores. We sailed the Tug about halfway across the lake, then used the Cargobob to carry the Rhino tank to the Tug. 
 
