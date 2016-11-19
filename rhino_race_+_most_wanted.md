@@ -17,4 +17,6 @@ The problem was that the tanks could ride up on the fence surrounding the track 
 
 In the end, GRILT finished in first place, Vyren came in second, and cnc was last. 
 
+We all agreed that it would have been better with a fourth member, but we were in an empty lobby at the time with no other friends online. 
+
 ## Records
