@@ -1,7 +1,8 @@
 {
     "plugins": [
         "theme-faq",
-        "tasklist"
+        "-fontsettngs",
+        "-sharing"
     ],
     "pluginsConfig": {}
 }
