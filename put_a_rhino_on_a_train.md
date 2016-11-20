@@ -1,6 +1,6 @@
 # Put a Rhino on a train
 
-**Status:** To-do
+**Status:** To-do (Attempted)
 
 **Completed By:** N/A
 
@@ -11,6 +11,6 @@
 It's all in the title. Get a Rhino tank and put it into a flatbed car on a train, just like we did with the Prison Bus. But this time it can shoot. 
 
 ## Report
-
+Our first attempt was partially successful. realsaladass managed to get the Rhino onto the train, but he fell off because he hit the barrel on a pole by the sawmill. 
 
 ## Records
