@@ -1,6 +1,6 @@
 # Put a Rhino on a train
 
-**Status:** To-do (Attempted)
+**Status:** To do (Attempted)
 
 **Times Attempted:** 1
 
