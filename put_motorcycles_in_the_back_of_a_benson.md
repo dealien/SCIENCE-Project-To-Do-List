@@ -1,6 +1,6 @@
 # Put motorcycles in the back of a Benson
 
-**Status:** To-Do
+**Status:** To Do
 
 **Completed By:** N/A
 
