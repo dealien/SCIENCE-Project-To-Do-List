@@ -11,5 +11,5 @@ We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and i
 
 
 ## Records
-<!-- add footage from the Rockstar Editor, and try to get some photos from Snapmatic -->
+<!-- add footage from the Rockstar Editor and/or some photos from Snapmatic -->
 
