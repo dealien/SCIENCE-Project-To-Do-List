@@ -1,6 +1,6 @@
 # Glitch into a train cabin
 
-**Status:** To-do
+**Status:** To do
 
 
 ## Idea
