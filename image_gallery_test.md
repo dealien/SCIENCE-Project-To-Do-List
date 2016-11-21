@@ -1,6 +1,6 @@
 # Image Gallery Test
 
-<div class="grid">
+<div class="grid" data-packery='{ "itemSelector": ".grid-item", "gutter": 10 }'>
   <!-- .grid-sizer & .gutter-sizer empty elements
     only used for element sizing -->
   <div class="grid-sizer">Grid Sizer</div>
