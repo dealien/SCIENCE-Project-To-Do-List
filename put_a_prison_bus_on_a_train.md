@@ -1,10 +1,3 @@
-<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
-<script>
-$('span').replaceWith(function() {
-    var url = $.trim($(this).text());
-    return '<a href="' + url + '" target="_blank">' + url + '</a>';
-});
-</script>
 # Put a Prison Bus on a train
 
 **Status:** Success
