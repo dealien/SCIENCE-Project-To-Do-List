@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Project Summary](project_summary.md)
 * [Put a Prison Bus on a train](put_a_prison_bus_on_a_train.md)
 * [Put a Rhino on a Tug](put_a_rhino_on_a_tug.md)
 * [Glitch into a train cabin](glitch_into_a_train_cabin.md)

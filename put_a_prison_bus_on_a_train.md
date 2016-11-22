@@ -1,20 +1,16 @@
-<script>
-$('span').replaceWith(function() {
-    var url = $.trim($(this).text());
-    return '<a href="' + url + '" target="_blank">' + url + '</a>';
-});
-</script>
 # Put a Prison Bus on a train
 
 **Status:** Success
 
-**Completed By:** <span>Vyren11</span>, <span>cncman30</span>, <span>DuckterZoidberg</span>, <span>TheNousKid</span>, <span>realsaladass</span>
+**Completed By:** {{ Vyren11 }}, {{ cncman30 }}, {{ DuckterZoidberg }}, {{ TheNousKid }}, {{ realsaladass }}
 
 ## Idea
-We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train. cnc and Zoidberg drove down the tracks to make a train come. Then they got on it and rode back to me, allowing me to see the location of the train. 
+We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train. {{ cncman30 }} and {{ DuckterZoidberg }} drove down the tracks to make a train come. Then they get on the train and rode back to me, allowing me to see the location of the train. 
 
 ## Report
 It went way better than expected. The Prison Bus landed almost perfectly in the flatbed. It was hard to know when to drive off, but my timing was miraculously perfect. 
+
+In the future we need to have the train-catchers ride in the first flatbed car. That would allow the person attempting to board the train to see where they need to aim to land in the flatbed. 
 
 ## Records
 <!-- add footage from the Rockstar Editor and/or some photos from Snapmatic -->
@@ -48,3 +44,10 @@ It went way better than expected. The Prison Bus landed almost perfectly in the 
   <div class="desc">Add a description of the image here</div>
 </div>
 -->
+
+{% set Vyren11 = "<a href='https://socialclub.rockstargames.com/member/vyren11'>Vyren11</a>" %}
+{% set cncman30 = "<a href='https://socialclub.rockstargames.com/member/cncman30'>cncman30</a>" %}
+{% set DuckterZoidberg = "<a href='https://socialclub.rockstargames.com/member/DuckterZoidberg'>DuckterZoidberg</a>" %}
+{% set TheNousKid = "<a href='https://socialclub.rockstargames.com/member/TheNousKid'>TheNousKid</a>" %}
+{% set realsaladass = "<a href='https://socialclub.rockstargames.com/member/realsaladass'>realsaladass</a>" %}
+{% set HeyitsJim = "<a href='https://socialclub.rockstargames.com/member/HeyitsJim'>HeyitsJim</a>" %}
