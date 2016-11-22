@@ -1,9 +1,3 @@
-{% set Vyren11 = "<a href='https://socialclub.rockstargames.com/member/vyren11'>Vyren11</a>" %}
-{% set cncman30 = "<a href='https://socialclub.rockstargames.com/member/cncman30'>cncman30</a>" %}
-{% set DuckterZoidberg = "<a href='https://socialclub.rockstargames.com/member/DuckterZoidberg'>DuckterZoidberg</a>" %}
-{% set TheNousKid = "<a href='https://socialclub.rockstargames.com/member/TheNousKid'>TheNousKid</a>" %}
-{% set realsaladass = "<a href='https://socialclub.rockstargames.com/member/realsaladass'>realsaladass</a>" %}
-
 This is a list of all the SCIENCE projects undertaken by the [Disciples of SCIENCE](https://socialclub.rockstargames.com/crew/disciples_of_science) crew in Grand Theft Auto: Online. It is written and updated by none other than their leader, [Vyren11](https://socialclub.rockstargames.com/member/vyren11). 
 
 Don't ask why it says "FAQ" everywhere. It just does and there's nothing I can do. Deal with it. 
