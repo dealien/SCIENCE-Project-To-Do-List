@@ -3,6 +3,7 @@
 
 **Reason for Failure:** The Rhino is far too heavy for the Tug
 
+**Attempted By:** {{ Vyren11 }} (Boat Driver), {{ DuckterZoidberg }}, {{ cncman30 }},{{ TheNousKid }}, {{ realsaladass }}
 
 
 ## Info
