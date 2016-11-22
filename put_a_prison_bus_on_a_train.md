@@ -44,10 +44,3 @@ In the future we need to have the train-catchers ride in the first flatbed car. 
   <div class="desc">Add a description of the image here</div>
 </div>
 -->
-
-{% set Vyren11 = "<a href='https://socialclub.rockstargames.com/member/vyren11'>Vyren11</a>" %}
-{% set cncman30 = "<a href='https://socialclub.rockstargames.com/member/cncman30'>cncman30</a>" %}
-{% set DuckterZoidberg = "<a href='https://socialclub.rockstargames.com/member/DuckterZoidberg'>DuckterZoidberg</a>" %}
-{% set TheNousKid = "<a href='https://socialclub.rockstargames.com/member/TheNousKid'>TheNousKid</a>" %}
-{% set realsaladass = "<a href='https://socialclub.rockstargames.com/member/realsaladass'>realsaladass</a>" %}
-{% set HeyitsJim = "<a href='https://socialclub.rockstargames.com/member/HeyitsJim'>HeyitsJim</a>" %}
