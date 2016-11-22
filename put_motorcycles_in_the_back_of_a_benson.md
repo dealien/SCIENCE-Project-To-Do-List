@@ -14,7 +14,7 @@ We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and i
 
 Our first attempts to put a bike in a truck failed because we were using regular 18-wheelers. After a quick investigation online, we found that the Benson would be the best truck to use. But finding one is the problem. I read that they are sometimes found near the Burton Los Santos Customs, but they're apparently very rare.
 
-After approximately 2.5 hours of searching, we failed to locate a Benson. They must be far more rare than we originally thought, if they even sawn naturally at all.They do spawn during certain crate missions, such as police , and MC jobs, such as deliveries.
+After approximately 2.5 hours of searching, we failed to locate a Benson. They must be far more rare than we originally thought, if they even sawn naturally at all.They do spawn during certain crate missions, such as police bus, and MC jobs, such as deliveries.
 
 ## Records
 
