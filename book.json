@@ -1,7 +1,7 @@
 {
     "plugins":[
         "theme-faq",
-        "plugin-scripts"
+        "scripts"
     ],
     "pluginsConfig":{
         "scripts":{
