@@ -24,3 +24,4 @@ After approximately 2.5 hours of searching, we failed to locate a Benson. They m
 {% set TheNousKid = "<a href='https://socialclub.rockstargames.com/member/TheNousKid'>TheNousKid</a>" %}
 {% set realsaladass = "<a href='https://socialclub.rockstargames.com/member/realsaladass'>realsaladass</a>" %}
 {% set HeyitsJim = "<a href='https://socialclub.rockstargames.com/member/HeyitsJim'>HeyitsJim</a>" %}
+{% set GRILT_CHEEZ = "<a href='https://socialclub.rockstargames.com/member/GRILT_CHEEZ'>GRILT_CHEEZ</a>" %}
