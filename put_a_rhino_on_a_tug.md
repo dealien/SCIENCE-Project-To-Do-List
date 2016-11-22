@@ -3,7 +3,7 @@
 
 **Reason for Failure:** The Rhino is far too heavy for the Tug
 
-**Attempted By:** {{ Vyren11 }} (Boat Driver), {{ DuckterZoidberg }} (, {{ cncman30 }}, {{ TheNousKid }}, {{ realsaladass }}
+**Attempted By:** {{ Vyren11 }} (Boat Driver), {{ DuckterZoidberg }} (Cargobob Pilot), {{ cncman30 }} (Tank Driver), {{ TheNousKid }}, {{ realsaladass }}
 
 
 ## Info
@@ -14,7 +14,7 @@ We brought a Tug, a Rhino tank and a Cargobob to the south side of the Alamo Sea
 
 We made sure that we didn't drop the Rhino onto the boat by touching down gently before releasing it. Even so, as soon as the Rhino landed on the Tug, they both just dropped like a stone to the bottom of the lake. 
 
-There was nobody in the Rhino and one person on the Tug. It was the weight of the Rhino alone that brought the Tug down. 
+There was one person in the Rhino and one person on the Tug. It was the weight of the Rhino alone that brought the Tug down. 
 
 
 ## Records
