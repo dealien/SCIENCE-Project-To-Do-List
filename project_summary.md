@@ -1,7 +1,7 @@
 # Project Summary
 
 ## Projects by user:
-### Vyren11
-{% for article in glossary.terms['Vyren11'].articles %}
+### project
+{% for article in glossary.terms['project'].articles %}
 * [{{ article.title }}]({{ article.path }})
 {% endfor %}
