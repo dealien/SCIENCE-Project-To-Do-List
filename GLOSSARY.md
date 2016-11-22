@@ -1,8 +1,8 @@
-## Vyren11
+## Prison Bus
 
 The leader of the Disciples of SCIENCE. 
 
-## cncman30
+## Help
 
 A member of the Disciples of SCIENCE. 
 
