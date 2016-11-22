@@ -13,6 +13,7 @@ It went way better than expected. The Prison Bus landed almost perfectly in the 
 ## Records
 <!-- add footage from the Rockstar Editor and/or some photos from Snapmatic -->
 
+<!--
 <div class="img">
   <a target="_blank" href="fjords.jpg">
     <img src="fjords.jpg" alt="Fjords" width="300" height="200">
@@ -40,3 +41,4 @@ It went way better than expected. The Prison Bus landed almost perfectly in the 
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
+-->
