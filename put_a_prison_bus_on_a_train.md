@@ -1,4 +1,4 @@
-<script src="/jquery-2.2.4.min.js"></script> 
+<!-- <script src="/jquery-2.2.4.min.js"></script> -->
 <script>
 $('span').replaceWith(function() {
     var url = $.trim($(this).text());
