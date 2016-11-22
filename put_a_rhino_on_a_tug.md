@@ -14,7 +14,7 @@ We brought a Tug, a Rhino tank and a Cargobob to the south side of the Alamo Sea
 
 We made sure that we didn't drop the Rhino onto the boat by touching down gently before releasing it. Even so, as soon as the Rhino landed on the Tug, they both just dropped like a stone to the bottom of the lake. 
 
-There was one person in the Rhino and one person on the Tug. It was the weight of the Rhino alone that brought the Tug down. 
+There was one person in the Rhino and one person on the Tug, but their weights were insignificant. It was the weight of the Rhino alone that brought the Tug down. 
 
 
 ## Records
