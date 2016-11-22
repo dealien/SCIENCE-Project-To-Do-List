@@ -2,7 +2,7 @@
 
 **Status:** Success
 
-**Completed By:** {{Vyren11}} (Tank Driver), {{cncman30}}, {{GRILT_CHEEZ}} (Tank Driv
+**Completed By:** {{Vyren11}} (Tank Driver), {{cncman30}}, {{GRILT_CHEEZ}} (Tank Driver)
 
 **Completion Date:** Friday, November 18, 2016
 
