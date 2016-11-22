@@ -4,12 +4,16 @@ $('span').replaceWith(function() {
     return '<a href="' + url + '" target="_blank">' + url + '</a>';
 });
 </script>
-{% set userLink = "https://socialclub.rockstargames.com/member/" %}
+{% set Vyren11 = "<a href='{{ userLink }}vyren11'>Vyren11</a>" %}
+{% set cncman30 = "<a href='{{ userLink }}cncman30'>cncman30</a>" %}
+{% set DuckterZoidberg = "<a href='{{ userLink }}DuckterZoidberg'>DuckterZoidberg</a>" %}
+{% set TheNousKid = "<a href='{{ userLink }}TheNousKid'>TheNousKid</a>" %}
+{% set realsaladass = "<a href='{{ userLink }}realsaladass'>realsaladass</a>" %}
 # Put a Prison Bus on a train
 
 **Status:** Success
 
-**Completed By:** <a href='{{ userLink }}vyren11'>Vyren11</a>, <span>cncman30</span>, <span>DuckterZoidberg</span>, <span>TheNousKid</span>, <span>realsaladass</span>
+**Completed By:** {{ Vyren11 }}, <span>cncman30</span>, <span>DuckterZoidberg</span>, <span>TheNousKid</span>, <span>realsaladass</span>
 
 ## Idea
 We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train. cnc and Zoidberg drove down the tracks to make a train come. Then they got on it and rode back to me, allowing me to see the location of the train. 
