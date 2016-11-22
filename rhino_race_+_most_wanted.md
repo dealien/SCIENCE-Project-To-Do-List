@@ -2,7 +2,7 @@
 
 **Status:** Success
 
-**Completed By:** Vyren11, cncman30, GRILT_CHEEZ
+**Completed By:** {{Vyren11}} (Tank Driver), {{cncman30}}, {{GRILT_CHEEZ}}
 
 **Completion Date:** Friday, November 18, 2016
 
@@ -29,3 +29,4 @@ We all agreed that it would have been better with a fourth member, but we were i
 {% set TheNousKid = "<a href='https://socialclub.rockstargames.com/member/TheNousKid'>TheNousKid</a>" %}
 {% set realsaladass = "<a href='https://socialclub.rockstargames.com/member/realsaladass'>realsaladass</a>" %}
 {% set HeyitsJim = "<a href='https://socialclub.rockstargames.com/member/HeyitsJim'>HeyitsJim</a>" %}
+{% set GRILT_CHEEZ = "<a href='https://socialclub.rockstargames.com/member/GRILT_CHEEZ'>GRILT_CHEEZ</a>" %}
