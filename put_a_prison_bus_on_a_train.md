@@ -8,7 +8,7 @@ $('span').replaceWith(function() {
 
 **Status:** Success
 
-**Completed By:** <a href='{{ userLink }}>Vyren11, <span>cncman30</span>, <span>DuckterZoidberg</span>, <span>TheNousKid</span>, <span>realsaladass</span>
+**Completed By:** <a href='{{ userLink }}>Vyren11</a>, <span>cncman30</span>, <span>DuckterZoidberg</span>, <span>TheNousKid</span>, <span>realsaladass</span>
 
 ## Idea
 We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train. cnc and Zoidberg drove down the tracks to make a train come. Then they got on it and rode back to me, allowing me to see the location of the train. 
