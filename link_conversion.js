@@ -1,4 +1,4 @@
 $('.sampleClass span').replaceWith(function() {
-    var url = $.trim($(this).text());
-    return '<a href="' + url + '" target="_blank">' + url + '</a>';
+    var user = $.trim($(this).text());
+    return '<a href="https://socialclub.rockstargames.com/member/' + user + '" target="_blank">' + user + '</a>';
 });
