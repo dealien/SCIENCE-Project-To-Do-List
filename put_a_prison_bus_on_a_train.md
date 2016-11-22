@@ -4,6 +4,7 @@ $('span').replaceWith(function() {
     return '<a href="' + url + '" target="_blank">' + url + '</a>';
 });
 </script>
+{% set userLink = "https://socialclub.rockstargames.com/member/" %}
 # Put a Prison Bus on a train
 
 **Status:** Success
