@@ -1,4 +1,4 @@
-# Drive a Prison Bus onto a train
+# Put a Prison Bus on a train
 
 **Status:** Success
 
