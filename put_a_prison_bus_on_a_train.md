@@ -1,3 +1,4 @@
+<head>
 <script src="/jquery-2.2.4.min.js"></script> 
 <script>
 $('span').replaceWith(function() {
@@ -5,6 +6,7 @@ $('span').replaceWith(function() {
     return '<a href="' + url + '" target="_blank">' + url + '</a>';
 });
 </script>
+</head>
 # Put a Prison Bus on a train
 
 **Status:** Success
