@@ -21,5 +21,7 @@ In the end, GRILT finished in first place, Vyren came in second, and cnc was las
 
 We all agreed that it would have been better with a fourth member, but we were in an empty lobby at the time with no other friends online. 
 
+This is definitely a repeatable activity as it is easy to set up and a lot of fun. 
+
 ## Records
 
