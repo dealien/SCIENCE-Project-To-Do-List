@@ -1,6 +1,6 @@
 # Put a Prison Bus on a train
 
-**Status:** <span class="user">Success</span>
+**Status:** <span class="success">Success</span>
 
 **Completed By:** {{book.Vyren11}}, {{book.cncman30}}, {{book.DuckterZoidberg}}, {{book.TheNousKid}}, {{book.realsaladass}}
 
