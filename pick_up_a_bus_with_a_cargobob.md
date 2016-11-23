@@ -1,6 +1,6 @@
 # Pick up a Bus with a Cargobob
 
-**Status:** To Do
+**Status:** <span class="status todo">To Do</span>
 
 **Completed By:** N/A
 
