@@ -1,5 +1,3 @@
-<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
-<script src="linkConversion.js"></script>
 # Put a Prison Bus on a train
 
 **Status:** Success
