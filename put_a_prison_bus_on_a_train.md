@@ -5,7 +5,7 @@
 **Completed By:** {{book.Vyren11}}, {{book.cncman30}}, {{book.DuckterZoidberg}}, {{book.TheNousKid}}, {{book.realsaladass}}
 
 ## Idea
-We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train. {{book.cncman30}} and {{book.DuckterZoidberg}} drive down the tracks to make a train come. Then they get on the train and ride back to me, allowing me to see the progress of the train. 
+We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train. Once the bus is in place we have {{book.cncman30}} and {{book.DuckterZoidberg}} drive down the tracks to make a train come. Then they get on the train and ride back to me, allowing me to see the progress of the train. 
 
 ## Report
 It went way better than expected. The Prison Bus landed almost perfectly in the flatbed. It was hard to know when to drive off, but my timing was miraculously perfect. 
