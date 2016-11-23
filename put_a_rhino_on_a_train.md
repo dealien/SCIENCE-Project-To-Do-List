@@ -1,6 +1,6 @@
 # Put a Rhino on a train
 
-**Status:** To Do (Attempted)
+**Status:** <span class="status todo">To Do (Attempted)</span>
 
 **Times Attempted:** 1
 
