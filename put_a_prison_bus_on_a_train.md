@@ -1,3 +1,4 @@
+<script src="linkConversion.js"></script>
 # Put a Prison Bus on a train
 
 **Status:** Success
