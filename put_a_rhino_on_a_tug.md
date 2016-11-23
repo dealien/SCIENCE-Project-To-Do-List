@@ -1,5 +1,5 @@
 # Put a Rhino on a Tug
-**Status:** Failed
+**Status:** <span class="status failure">Failure</span>
 
 **Reason for Failure:** The Rhino is far too heavy for the Tug
 
