@@ -1,6 +1,6 @@
 # Rhino race + Most Wanted
 
-**Status:** Success
+**Status:** <span class="status success">Success</span>
 
 **Completed By:** {{Vyren11}} (Tank Driver), {{cncman30}}, {{GRILT_CHEEZ}} (Tank Driver)
 
