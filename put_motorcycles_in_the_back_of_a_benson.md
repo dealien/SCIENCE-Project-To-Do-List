@@ -1,6 +1,6 @@
 # Put motorcycles in the back of a Benson
 
-**Status:** To Do
+**Status:** <span class="status todo">To Do</span>
 
 **Completed By:** N\/A
 
