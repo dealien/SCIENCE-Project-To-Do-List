@@ -2,7 +2,7 @@
     "plugins":[
         "theme-faq",
     ],
-    "pluginsConfig":{
+    "pluginsConfig":{}
     },
     "variables":{
         "Vyren11":"<a href='https://socialclub.rockstargames.com/member/vyren11'>Vyren11</a>",
