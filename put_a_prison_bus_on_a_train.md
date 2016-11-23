@@ -14,7 +14,7 @@ It went way better than expected. The Prison Bus landed almost perfectly in the 
 
 {{book.TheNousKid}} tried to drive his car onto the train as well, but he didn't get to the top of the tunnel in time. 
 
-In the future we need to have the train-catchers ride in the first flatbed car. That would allow the person attempting to board the train to see where they need to aim to land in the flatbed. 
+In the future we need to have the train-catchers ride in the first flatbed car. That would allow the person attempting to board the train to see where they need to aim in order to land in the flatbed. 
 
 ## Records
 
