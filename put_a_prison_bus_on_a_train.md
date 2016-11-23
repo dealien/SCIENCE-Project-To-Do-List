@@ -1,4 +1,4 @@
-, # Put a Prison Bus on a train
+# Put a Prison Bus on a train
 
 **Status:** <span clas="user">Success</span>
 
