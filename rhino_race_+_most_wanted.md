@@ -1,4 +1,3 @@
-<script src="linkConversion.js"></script>
 # Rhino race + Most Wanted
 
 **Status:** Success
