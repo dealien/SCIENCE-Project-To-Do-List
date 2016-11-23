@@ -13,7 +13,6 @@ It went way better than expected. The Prison Bus landed almost perfectly in the 
 In the future we need to have the train-catchers ride in the first flatbed car. That would allow the person attempting to board the train to see where they need to aim to land in the flatbed. 
 
 ## Records
-<!-- add footage from the Rockstar Editor and/or some photos from Snapmatic -->
 
 <div class="img">
   <a target="_blank" href="https://socialclub.rockstargames.com/member/vyren11/games/gtav/snapmatic/mostrecent/photo/HIlWp1v0UUyff42UfJtMPA">
