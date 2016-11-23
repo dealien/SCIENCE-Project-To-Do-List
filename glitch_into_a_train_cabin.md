@@ -1,6 +1,6 @@
 # Glitch into a train cabin
 
-**Status:** To Do
+**Status:** <span class="status todo">To Do</span>
 
 
 ## Idea
