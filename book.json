@@ -1,22 +1,21 @@
 {
-    "plugins":[
-        "theme-faq",
-    ],
-    "pluginsConfig":{},
-    },
-    "variables":{
-        "Vyren11":"<a href='https://socialclub.rockstargames.com/member/vyren11'>Vyren11</a>",
-        "cncman30":"<a href='https://socialclub.rockstargames.com/member/cncman30'>cncman30</a>",
-        "DuckterZoidberg":"<a href='https://socialclub.rockstargames.com/member/DuckterZoidberg'>DuckterZoidberg</a>",
-        "TheNousKid":"<a href='https://socialclub.rockstargames.com/member/TheNousKid'>TheNousKid</a>",
-        "realsaladass":"<a href='https://socialclub.rockstargames.com/member/realsaladass'>realsaladass</a>",
-        "HeyitsJim":"<a href='https://socialclub.rockstargames.com/member/HeyitsJim'>HeyitsJim</a>",
-        "ClemFoxxin":"<a href='https://socialclub.rockstargames.com/member/ClemFoxxin'>ClemFoxxin</a>",
-        "muhmem9268-":"<a href='https://socialclub.rockstargames.com/member/muhmem9268-'>muhmem9268-</a>",
-        "Grapes1023":"<a href='https://socialclub.rockstargames.com/member/Grapes1023'>Grapes1023</a>",
-        "Nihiliz":"<a href='https://socialclub.rockstargames.com/member/Nihiliz'>Nihiliz</a>",
-        "Turrid":"<a href='https://socialclub.rockstargames.com/member/Turrid'>Turrid</a>",
-        "Pyr0g3n":"<a href='https://socialclub.rockstargames.com/member/Pyr0g3n'>Pyr0g3n</a>",
-        "smazzy187":"<a href='https://socialclub.rockstargames.com/member/smazzy187'>smazzy187</a>"
-    }
+	"plugins": [
+		"theme-faq"
+	],
+	"pluginsConfig": {},
+	"variables": {
+		"Vyren11": "<a href='https://socialclub.rockstargames.com/member/vyren11'>Vyren11</a>",
+		"cncman30": "<a href='https://socialclub.rockstargames.com/member/cncman30'>cncman30</a>",
+		"DuckterZoidberg": "<a href='https://socialclub.rockstargames.com/member/DuckterZoidberg'>DuckterZoidberg</a>",
+		"TheNousKid": "<a href='https://socialclub.rockstargames.com/member/TheNousKid'>TheNousKid</a>",
+		"realsaladass": "<a href='https://socialclub.rockstargames.com/member/realsaladass'>realsaladass</a>",
+		"HeyitsJim": "<a href='https://socialclub.rockstargames.com/member/HeyitsJim'>HeyitsJim</a>",
+		"ClemFoxxin": "<a href='https://socialclub.rockstargames.com/member/ClemFoxxin'>ClemFoxxin</a>",
+		"muhmem9268-": "<a href='https://socialclub.rockstargames.com/member/muhmem9268-'>muhmem9268-</a>",
+		"Grapes1023": "<a href='https://socialclub.rockstargames.com/member/Grapes1023'>Grapes1023</a>",
+		"Nihiliz": "<a href='https://socialclub.rockstargames.com/member/Nihiliz'>Nihiliz</a>",
+		"Turrid": "<a href='https://socialclub.rockstargames.com/member/Turrid'>Turrid</a>",
+		"Pyr0g3n": "<a href='https://socialclub.rockstargames.com/member/Pyr0g3n'>Pyr0g3n</a>",
+		"smazzy187": "<a href='https://socialclub.rockstargames.com/member/smazzy187'>smazzy187</a>"
+	}
 }
