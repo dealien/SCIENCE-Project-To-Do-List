@@ -2,7 +2,7 @@
 
 **Status:** Success
 
-**Completed By:** {{ book.Vyren11 }}, {{ book.cncman30 }}, {{ book.DuckterZoidberg }}, {{ book.TheNousKid }}, {{ book.realsaladass }}
+**Completed By:** <span>Vyren11</span>, {{ book.cncman30 }}, {{ book.DuckterZoidberg }}, {{ book.TheNousKid }}, {{ book.realsaladass }}
 
 ## Idea
 We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train. {{ cncman30 }} and {{ DuckterZoidberg }} drive down the tracks to make a train come. Then they get on the train and ride back to me, allowing me to see the progress of the train. 
