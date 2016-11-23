@@ -1,14 +1,8 @@
 {
     "plugins":[
         "theme-faq",
-        "scripts"
     ],
     "pluginsConfig":{
-        "scripts":{
-            "files":[
-                "./linkConversion.js"
-            ]
-        }
     },
     "variables":{
         "Vyren11":"<a href='https://socialclub.rockstargames.com/member/vyren11'>Vyren11</a>",
