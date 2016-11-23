@@ -2,7 +2,7 @@
 
 **Status:** <span class="status success">Success</span>
 
-**Completed By:** {{book.Vyren11}} (Bus Driver), {{book.cncman30}} (Train Scout), {{book.DuckterZoidberg}} (Train Scout), {{book.TheNousKid}}, {{book.realsaladass}} (Bus Passenger)
+**Completed By:** {{book.Vyren11}} (Bus Driver), {{book.cncman30}} (Train Scout), {{book.DuckterZoidberg}} (Train Scout), {{book.TheNousKid}} (Somewhere Nearby), {{book.realsaladass}} (Bus Passenger)
 
 ## Idea
 We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train. 
