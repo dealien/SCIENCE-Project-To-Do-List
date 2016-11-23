@@ -15,7 +15,6 @@ In the future we need to have the train-catchers ride in the first flatbed car. 
 ## Records
 <!-- add footage from the Rockstar Editor and/or some photos from Snapmatic -->
 
-<!--
 <div class="img">
   <a target="_blank" href="https://socialclub.rockstargames.com/member/vyren11/games/gtav/snapmatic/mostrecent/photo/HIlWp1v0UUyff42UfJtMPA">
     <img src="https://prod.hosted.cloud.rockstargames.com/ugc/gta5photo/HIlWp1v0UUyff42UfJtMPA_0_0.jpg" width="300" height="200">
@@ -23,6 +22,7 @@ In the future we need to have the train-catchers ride in the first flatbed car. 
   <div class="desc">Putting a Prison Bus on a train from the tunnel near the sawmill</div>
 </div>
 
+<!--
 <div class="img">
   <a target="_blank" href="forest.jpg">
     <img src="forest.jpg" alt="Forest" width="300" height="200">
