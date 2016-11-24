@@ -11,7 +11,7 @@
 A group of people get Rhino tanks and head to the Vinewood Racetrack. Then we start Most Wanted from the CEO Work menu and have a "race" around the track. Whoever does the most laps in the ten minutes for Most Wanted wins the race. 
 
 ## Report
-Brilliant success! We half expected the tanks to get destroyed immediately, but they actually took no visible damage during the ten minute run. All three of us survived the entire mission. 
+Brilliant success! We half expected the tanks to get destroyed immediately, but they ended up taking no visible damage during the ten minute run. All three of us survived the entire mission. 
 
 The problem was that the tanks could ride up on the fence surrounding the track and get stuck. Normally we might ask another participant to help us get unstuck, but because of Most Wanted we were all ghosted to one another and therefore unable to collide. The solution is simple: don't touch the fence. 
 
