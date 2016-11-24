@@ -8,7 +8,7 @@
 
 ## Idea
 
-We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train.
+We find a Benson delivery truck somewhere, open the back, and use it to carry bikes and stuff around. It'll be awesome!
 
 ## Report
 
