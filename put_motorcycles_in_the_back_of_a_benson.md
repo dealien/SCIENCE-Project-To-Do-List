@@ -2,7 +2,7 @@
 
 **Status:** <span class="status suspended">Suspended</span>
 
-**Completed By:** N/A
+**Attempted By:** {{book.Vyren11}}, 
 
 **Completion Date:** N/A
 
