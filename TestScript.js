@@ -24,8 +24,8 @@ function testjQuery() {
 }
 
 function linkNames() {
-  $('.sampleClass span').replaceWith(function() {
+  $('span').replaceWith(function() {
     var username = $.trim($(this).text());
-    return '<a href="https://socialclub.rockstargames.com/member/' + url + '" target="_blank">' + username + '</a>';
+    return '<a href="https://socialclub.rockstargames.com/member/' + username + '" target="_blank">' + username + '</a>';
   });
 }
