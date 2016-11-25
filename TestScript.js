@@ -1,6 +1,7 @@
 document.body.onload = addElement;
 
 var nodeText = "This is the new text element.";
+console.log("nodeText = " + nodeTest)
 
 
 function addElement () { 
