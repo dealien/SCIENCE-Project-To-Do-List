@@ -1,4 +1,6 @@
 document.body.onload = addElement;
+document.body.onload = testjQuery;
+
 
 var nodeText = "This is the new text element.";
 console.log("nodeText = " + nodeText);
