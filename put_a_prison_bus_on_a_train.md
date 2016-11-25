@@ -1,3 +1,4 @@
+<!--
 <head><script>
 document.body.onload = addElement;
 
@@ -14,6 +15,7 @@ function addElement () {
 }
 </script>
 </head>
+-->
 # Put a Prison Bus on a train
 
 **Status:** <span class="status success">Success</span>
