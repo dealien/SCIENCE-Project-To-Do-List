@@ -25,7 +25,7 @@ function testjQuery() {
 
 function linkNames() {
   console.log("Running function linkNames()");
-  $('span').replaceWith(function() {
+  $('span.user').replaceWith(function() {
     var username = $.trim($(this).text());
     return '<a href="https://socialclub.rockstargames.com/member/' + username + '" target="_blank">' + username + '</a>';
   });
