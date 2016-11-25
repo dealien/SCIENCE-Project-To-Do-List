@@ -1,6 +1,6 @@
 document.body.onload = addElement;
 document.body.onload = testjQuery;
-
+document.body.onload = linkNames;
 
 var nodeText = "This is the new text element.";
 console.log("nodeText = " + nodeText);
@@ -21,4 +21,11 @@ function testjQuery() {
   } else {
     console.log("jQuery is loaded");
   }
+}
+
+function linkNames() {
+  $('.sampleClass span').replaceWith(function() {
+    var username = $.trim($(this).text());
+    return '<a href="https://socialclub.rockstargames.com/member/' + url + '" target="_blank">' + username + '</a>';
+  });
 }
