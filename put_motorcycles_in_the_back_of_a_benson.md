@@ -1,6 +1,6 @@
 # Put motorcycles in the back of a Benson
 
-**Status:** <span class="status suspended">To Do</span>
+**Status:** <span class="status suspended">Suspended</span>
 
 **Completed By:** N/A
 
