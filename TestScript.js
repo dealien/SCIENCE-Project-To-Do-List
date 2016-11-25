@@ -19,3 +19,4 @@ function testjQuery() {
   } else {
     console.log("jQuery is loaded");
   }
+}
