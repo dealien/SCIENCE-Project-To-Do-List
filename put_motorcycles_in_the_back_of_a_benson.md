@@ -14,5 +14,7 @@ We find a Benson delivery truck somewhere, open the back, and use it to carry bi
 
 Our first attempts to put a bike in a truck failed because we were using regular 18-wheelers. After a quick investigation online, we found that the Benson would be the best truck to use. But finding one is the problem. I read that they are sometimes found near the Burton Los Santos Customs, but they're apparently very rare.
 
-After approximately 2.5 hours of searching, we failed to locate a Benson. They must be far more rare than we originally thought, if they even spawn naturally at all. They do spawn during certain crate missions, such as police busts, and MC jobs, such as deliveries.## Records
+After approximately 2.5 hours of searching, we failed to locate a Benson. They must be far more rare than we originally thought, if they even spawn naturally at all. They do spawn during certain crate missions, such as police busts, and MC jobs, such as deliveries.
+
+## Records
 
