@@ -4,12 +4,6 @@
 
 **Completed By:** {{book.Vyren11}} (Bus Driver), {{book.cncman30}} (Train Scout), {{book.DuckterZoidberg}} (Train Scout), {{book.TheNousKid}} (Somewhere Nearby), {{book.realsaladass}} (Bus Passenger)
 
-<div id="div1">
-<p>This element's ID is "div1". </p>
-</div>
-
-<span>Vyren11</span>
-
 ## Idea
 We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train. 
 
