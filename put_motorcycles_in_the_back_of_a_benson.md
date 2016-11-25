@@ -2,9 +2,9 @@
 
 **Status:** <span class="status todo">To Do</span>
 
-**Completed By:** N\/A
+**Completed By:** N/A
 
-**Completion Date:** N\/A
+**Completion Date:** N/A
 
 ## Idea
 
