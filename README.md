@@ -9,6 +9,7 @@ Don't ask why it says "FAQ" everywhere. It just does and there's nothing I can d
 * Pick up a Bus with a Cargobob
 
 ### Pages using glossary entries
-{% for article in glossary.terms['gitbook'].articles %}
+Prison Bus
+{% for article in glossary.terms['Prison Bus'].articles %}
 * [{{ article.title }}]({{ article.path }})
 {% endfor %}
