@@ -85,4 +85,11 @@ span.todo {
   background-image: linear-gradient(#f8d030, #f0c108);
   border-color: #c19b07
 }
+
+span.suspended {
+  background: #f8d030;
+  background-image: -webkit-linear-gradient(#f8d030, #dd6610);
+  background-image: linear-gradient(#f8d030, #dd6610);
+  border-color: #c19b07
+}
 /* End Status Marker Style */
