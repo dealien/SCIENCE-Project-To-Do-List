@@ -10,7 +10,7 @@ We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and i
 ## Report
 Once the bus is in place we had {{book.cncman30}} and {{book.DuckterZoidberg}} drive their cars down the tracks to make a train come. Then they got on the train and rode back to me, allowing me to see the progress of the train. 
 
-It went perfectly! The Prison Bus landed almost perfectly in the flatbed. It was hard to know when to drive off, but my timing was miraculously perfect. 
+It was amazing! The Prison Bus landed almost perfectly in the flatbed. It was hard to know when to drive off, but my timing was miraculously perfect. 
 
 {{book.TheNousKid}} tried to drive his car onto the train as well, but he didn't get to the top of the tunnel in time. 
 
