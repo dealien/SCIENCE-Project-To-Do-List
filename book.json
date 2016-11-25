@@ -7,7 +7,7 @@
     "pluginsConfig": {
         "scripts": {
             "files": [
-                "./TestScript.js"
+                "./SCRIPT.js"
             ]
         }
     },
