@@ -1,13 +1,10 @@
 document.body.onload = addElement;
 
 function addElement () { 
-  // create a new div element 
-  // and give it some content 
-  var newDiv = document.createElement("div"); 
-  var newContent = document.createTextNode("Hi there and greetings!"); 
-  newDiv.appendChild(newContent); //add the text node to the newly created div. 
+  var para = document.createElement("p");
+  var node = document.createTextNode("This is new.");
+  para.appendChild(node);
 
-  // add the newly created element and its content into the DOM 
-  var currentDiv = document.getElementById("div1"); 
-  document.body.insertBefore(newDiv, currentDiv); 
+  var element = document.getElementById("div1");
+  element.appendChild(para);
 }
