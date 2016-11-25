@@ -2,6 +2,8 @@ This is a list of all the SCIENCE projects undertaken by the [Disciples of SCIEN
 
 Don't ask why it says "FAQ" everywhere. It just does and there's nothing I can do. Deal with it. 
 
+Also, for some reason when you click on an image the first time it doesn't always take you to the correct page. If that happens, just click on the image again. 
+
 ### Current Projects
 * Put a Rhino on a train
 * Glitch into a train cabin
