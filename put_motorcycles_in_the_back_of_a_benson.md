@@ -4,7 +4,7 @@
 
 **Attempted By:** {{book.Vyren11}}, {{book.cncman30}}, {{book.Grapes1023}}
 
-**Attempted On:** 11/23/2016
+**Attempted On:** Wednesday, November 23, 2016
 
 ## Idea
 
