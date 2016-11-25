@@ -18,3 +18,4 @@ function testjQuery() {
     console.log("jQuery is not loaded");
   } else {
     console.log("jQuery is loaded");
+  }
