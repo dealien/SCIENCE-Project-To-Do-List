@@ -16,5 +16,7 @@ Our first attempts to put a bike in a truck failed because we were using regular
 
 After approximately 2.5 hours of searching, we failed to locate a Benson. They must be far more rare than we originally thought, if they even spawn naturally at all. They do spawn during certain crate missions, such as police busts, and MC jobs, such as deliveries.
 
+When we finally did find a Benson we were unable to open the back door. We tried the old stomp-on-the-roof-above-the-back-door tactic, the shoot-the-back-door-with-an-MG tactic, and the accidentally-blow-up-the-entire-truck-while-trying-to-blow-the-back-door-open tactic, all without success. 
+
 ## Records
 
