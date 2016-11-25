@@ -5,6 +5,7 @@ console.log("nodeText = " + nodeText);
 
 
 function addElement () { 
+  console.log("Running function addElement()");
   var para = document.createElement("p");
   var node = document.createTextNode(nodeText);
   para.appendChild(node);
