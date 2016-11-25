@@ -4,7 +4,9 @@
 
 A delivery truck. It resembles those used by real-life companies such as Poland Springs. It often used in crate sale police busts to block off an alley or road. We have also found them during certain Motorcycle Club missions. 
 
-The Benson differs from other delivery trucks in that the back door swings downwards, creating a ramp to drive stuff into it. This mechanic is used in various MC missions. 
+## Cargobob
+
+It's the giant, twin-engine helicopter. It can pick up and carry vehicles underneath it using a deployable hook. It can be bought from Warstock Cache & Carry. It can carry 6 people. 
 
 ## Prison Bus
 
@@ -22,6 +24,6 @@ A massive military cargo plane.
 
 The massive tug boat used in some CEO deliveries. It's the largest boat in the game. It doesn't really have a maximum capacity because there are no actual seats, but people don't fall off of it so you can stand pretty much anywhere. 
 
-## Cargobob
+## MC
 
-It's the giant, twin-engine helicopter. It can pick up and carry vehicles underneath it using a deployable hook. It can be bought from Warstock Cache & Carry. It can carry 6 people. 
+Motorcycle Club
