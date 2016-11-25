@@ -18,7 +18,7 @@ After approximately 2.5 hours of searching, we failed to locate a Benson. They m
 
 When we finally did find a Benson we were unable to open the back door. We tried the old stomp-on-the-roof-above-the-back-door tactic, the shoot-the-back-door-with-an-MG tactic, and the accidentally-blow-up-the-entire-truck-while-trying-to-blow-the-back-door-open tactic, all without success. I don't know if we were doing it wrong, but Rockstar might have removed that capability when they removed the Titan's ability to carry cargo. 
 
-There has to be a way to open the back. The MC bike delivery missions sometimes require you to drive the bikes into the back of a Benson, but how do you get the Benson open in the first place? There must be a way--its just a matter of us finding it. 
+There has to be a way to open the back. The MC bike delivery missions sometimes require you to drive the bikes into the back of a Benson, but how do you get the Benson open in the first place? There must be a way--its just a matter of us figuring it out. 
 
 ## Records
 
