@@ -1,4 +1,4 @@
-<script>
+<head><script>
 document.body.onload = addElement;
 
 function addElement () { 
@@ -13,6 +13,7 @@ function addElement () {
   document.body.insertBefore(newDiv, currentDiv); 
 }
 </script>
+</head>
 # Put a Prison Bus on a train
 
 **Status:** <span class="status success">Success</span>
