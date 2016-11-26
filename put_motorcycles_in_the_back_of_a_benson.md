@@ -4,6 +4,8 @@
 
 **Attempted By:** {{book.Vyren11}}, {{book.cncman30}}, {{book.Grapes1023}}
 
+**Times Attempted:** 1
+
 **Attempted On:** Wednesday, November 23, 2016
 
 ## Idea
