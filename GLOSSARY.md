@@ -27,3 +27,7 @@ A massive military cargo plane.
 ## Tug
 
 The massive tug boat used in some CEO deliveries. It's the largest boat in the game. It doesn't really have a maximum capacity because there are no actual seats, but people don't fall off of it so you can stand pretty much anywhere. 
+
+## Insurgent
+
+The large armored truck. There are two versions: the regular Insurgent and the Insurgent Pick-Up. The second version comes with a roof-mounted minigun. They are unlocked upon completion of the Humane Labs Raid. 
