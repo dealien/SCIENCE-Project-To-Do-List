@@ -8,3 +8,4 @@ Also, for some reason when you click on an image the first time it doesn't alway
 * Put a Rhino on a train
 * Glitch into a train cabin
 * Pick up a Bus with a Cargobob
+* Pick up a person from the ocean with a helicopter
