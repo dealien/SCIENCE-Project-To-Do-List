@@ -1,4 +1,4 @@
-# Pick up a person from the ocean with a helicopter
+# Pick people up from the ocean with a helicopter
 
 **Status:** <span class="status todo">To Do</span>
 
