@@ -22,7 +22,7 @@ The small, blue bus sometimes seen at or around the prison. It can be bought fro
 
 ## Rhino
 
-The only tank in GTA V. It can be bought from Warstock Cache & Carry for $1,500,000. It can seat 1 person. 
+The Rhino is the only tank in GTA V. It can be bought from Warstock Cache & Carry for $1,500,000. It can seat 1 person. 
 
 It can also be found at the military base and airlifted out using a Cargobob
 
