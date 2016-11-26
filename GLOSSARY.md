@@ -10,7 +10,7 @@ It's the giant, twin-engine helicopter. It can pick up and carry vehicles undern
 
 ## MC
 
-Abreviation for Motorcycle Club
+Abbreviation for Motorcycle Club
 
 ## Prison Bus
 
