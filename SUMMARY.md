@@ -9,5 +9,5 @@
 * [Put motorcycles in the back of a Benson](put_motorcycles_in_the_back_of_a_benson.md)
 * [Pick up a Bus with a Cargobob](pick_up_a_bus_with_a_cargobob.md)
 * [Pick people up from the ocean with a helicopter](pick_people_up_from_the_ocean_with_a_helicopter.md)
-* [Land a Luxor on a yacht](land_a_plane_on_a_yacht.md)
+* [Land a Luxor on a yacht](land_a_luxor_on_a_yacht.md)
 
