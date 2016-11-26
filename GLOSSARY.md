@@ -31,3 +31,5 @@ The massive tug boat used in some CEO deliveries. It's the largest boat in the g
 ## Insurgent
 
 The large armored truck. There are two versions: the regular Insurgent and the Insurgent Pick-Up. The second version comes with a roof-mounted minigun. They are unlocked upon completion of the Humane Labs Raid. 
+
+The Insurgent Pick-Up is a Pegasus vehicle, whereas the regular Insurgent is a personal vehicle. 
