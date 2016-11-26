@@ -2,7 +2,7 @@
 
 **Status:** <span class="status suspended">Suspended</span>
 
-**Attempted By:** {{book.Vyren11}}, {{book.cncman30}}, {{book.Grapes1023}}
+**Attempted By:** <span>Vyren11</span>, <span>cncman30</span>, <span>Grapes1023</span>
 
 **Times Attempted:** 1
 
