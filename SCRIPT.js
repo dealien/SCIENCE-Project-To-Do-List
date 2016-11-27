@@ -46,7 +46,7 @@ function crewTags() {
     }
     console.log("rank = " + rank);
     var crew = val.substr(val.length - 4).toLowerCase();
-    var tag = '<div class="crewTag private"><span>' + crew + '</span><div class="hierarchy" title="">'
+    var tag = '<div class="crewTag private"><span class="crew-tag-name">' + crew + '</span><div class="hierarchy" title="">'
     if (rank > 0) {
       var i, j, ref;
       for (i = j = 1, ref = rank; 1 <= ref ? j <= ref : j >= ref; i = 1 <= ref ? ++j : --j) {
