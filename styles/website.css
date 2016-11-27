@@ -24,8 +24,8 @@ li,
   text-decoration: underline;
 }
 
-.faq-page a,
-.faq-page a:visited {
+.faq-page a:not(.glossary-term),
+.faq-page a:visited:not(.glossary-term) {
   color: #bf11de;
   text-decoration: none;
 }
