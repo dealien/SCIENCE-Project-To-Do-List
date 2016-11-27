@@ -1,6 +1,6 @@
 # Drive a Bus off Mount Chiliad
 
-**Status:** <span class="status failure">Failure</span>
+**Status:** <span class="status suspended">Suspended</span>
 
 **Reason for Failure:** The Bus was unable to climb Mount Chiliad
 
@@ -17,6 +17,6 @@ It became obvious almost immediately that the Bus did not have the necessary hor
 
 We tried many different vehicles: a Bus, a Barracks, a Tour Bus, a Prison Bus, a Dump, etc., all without success. 
 
-The "[Pick up a Bus with a Cargobob](/pick_up_a_bus_with_a_cargobob.md)" project was created partially because we wanted to see if we could skip the travel time up the mountain. The point of this project was to drive off the top of the mountain, not drive up it. 
+The "[Pick up a Bus with a Cargobob](/pick_up_a_bus_with_a_cargobob.md)" project was created partially because we wanted to see if we could skip the travel time up the mountain. The point of this project was to drive off the top of the mountain, not drive up it. At this point, this project has been suspended until we find a way to get the Bus to the top of Mount Chiliad. 
 
 ## Records
