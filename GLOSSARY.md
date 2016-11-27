@@ -36,6 +36,9 @@ A massive military cargo plane.
 
 The massive tug boat used in some CEO deliveries. It's the largest boat in the game. It doesn't really have a maximum capacity because there are no actual seats, but people don't fall off of it so you can stand pretty much anywhere. It can be purchased from DockTease for $1,250,000. 
 
+## HVY Dump
+See Dump
+
 ## Dump
 
 A giant dump truck found at the mines. It is also known as the HVY Dump. It can be purchased from Warstock Cache & Carry for $1,000,000. It can seat 1 person, but others can ride on the outside. 
