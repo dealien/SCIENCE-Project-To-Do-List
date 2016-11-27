@@ -45,7 +45,7 @@ function crewTags() {
       console.log("'rank' too large. Changed to '5'");
     }
     console.log("rank = " + rank);
-    var crew = val.substr(val.length - 4);
+    var crew = val.substr(val.length - 4).toLowerCase();
     var tag = '<div class="crewTag private"><span>' + crew + '</span><div class="hierarchy" title="">'
     if (rank > 0) {
       var i, j, ref;
