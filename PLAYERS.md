@@ -5,4 +5,16 @@ This is a list of players with whom members of the Disciples of SCIENCE have pla
 * <span>Vyren11</span>
 * <span>cncman30</span>
 * <span>DuckterZoidberg</span>
-* 
+* <span>HeyitsJim</span>
+* <span>ClemFoxxin</span>
+* <span>muhmem9268-</span>
+* <span>Grapes1023</span>
+* <span>Nihiliz</span>
+* <span>Turrid</span>
+* <span>Pyr0g3n</span>
+* <span>smazzy187</span>
+* <span>GRILT_CHEEZ</span>
+* <span>OUTBREAK2323</span>
+* <span>Justinsgamez</span>
+* <span>TheNousKid</span>
+* <span>realsaladass</span>
