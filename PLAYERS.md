@@ -4,7 +4,7 @@ This is a list of players with whom members of the Disciples of SCIENCE have pla
 
 |            Player            |               Crew               |            Notes            |
 |------------------------------|----------------------------------|-----------------------------|
-| <span>Vyren11</span>         | <span class="crew">5 SNCE</span> | The leader of the Disciples of SCIENCE |
+| <span>Vyren11</span>         | <span class="crew">5 SNCE</span> | The leader of the [Disciples of SCIENCE](https://socialclub.rockstargames.com/crew/disciples_of_science) |
 | <span>cncman30</span>        | <span class="crew">4 SNCE</span> |                             |
 | <span>DuckterZoidberg</span> | <span class="crew">0 SNCE</span> |                             |
 | <span>HeyitsJim</span>       | <span class="crew">0 SNCE</span> |                             |
