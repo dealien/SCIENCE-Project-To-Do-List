@@ -24,8 +24,6 @@ The small, blue bus sometimes seen at or around the prison. It can be bought fro
 
 The Rhino is the only tank in GTA V. It can be bought from Warstock Cache & Carry for $1,500,000. It can seat 1 person. 
 
-It can also be found at the military base and airlifted out using a Cargobob
-
 ## Titan
 
 A massive military cargo plane. 
@@ -33,3 +31,7 @@ A massive military cargo plane.
 ## Tug
 
 The massive tug boat used in some CEO deliveries. It's the largest boat in the game. It doesn't really have a maximum capacity because there are no actual seats, but people don't fall off of it so you can stand pretty much anywhere. 
+
+## SuperVolito Carbon
+
+A luxury helicopter that spawns on luxury yachts. It can be bought from Elitas Travel for $3,330,000. 
