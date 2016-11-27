@@ -113,3 +113,64 @@ span.suspended {
 
 
 /* End Status Marker Style */
+
+
+/* Crew Tag Style */
+.crewTag {
+  background: url(https://socialclub.rockstargames.com/images/crew-community/cards/crew-tags-v2.svg) no-repeat 0 0;
+  background-size: 64px 46px;
+  height: 23px;
+  width: 64px;
+  font-family: "DroidSansMonoW02-Bold", "DroidSansMonoW10-Bold", Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-size: 13px;
+  line-height: 23px;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, .6);
+  text-transform: uppercase;
+  color: #000;
+  float: left;
+  display: inline-block;
+  position: relative;
+  text-indent: 20px
+}
+
+.crewTag.private {
+  background-position: bottom
+}
+
+.crewTag .hierarchy {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 64px;
+  height: 2px;
+  display: block
+}
+
+.crewTag .hierarchy span {
+  width: 12px;
+  height: 2px;
+  margin-left: 1px;
+  float: left;
+  display: block
+}
+
+.crewTag .hierarchy span:first-child {
+  margin-left: 0;
+  border-radius: 0 0 0 1px
+}
+
+.crewTag .hierarchy span:nth-child(5n) {
+  border-radius: 0 0 1px
+}
+
+.crewTag .crewColor {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 64px;
+  height: 2px;
+  display: block;
+  border-radius: 0 0 1px 1px
+}
+
+/* End Crew Tag Style */
