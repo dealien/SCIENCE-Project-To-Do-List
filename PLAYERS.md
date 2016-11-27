@@ -4,19 +4,19 @@ This is a list of players with whom members of the [Disciples of SCIENCE](https:
 
 |            Player            |               Crew               |            Notes            |
 |------------------------------|----------------------------------|-----------------------------|
-| <span>Vyren11</span>         | <span class="crew">5 SNCE</span> | The leader of the [Disciples of SCIENCE](https://socialclub.rockstargames.com/crew/disciples_of_science) |
-| <span>cncman30</span>        | <span class="crew">4 SNCE</span> |                             |
-| <span>DuckterZoidberg</span> | <span class="crew">5 ZOID</span> |                             |
-| <span>HeyitsJim</span>       | <span class="crew">4 SNCE</span> |                             |
-| <span>ClemFoxxin</span>      | <span class="crew">2 SNCE</span> |                             |
-| <span>muhmem9268-</span>     | <span class="crew">0 SNCE</span> |                             |
-| <span>Grapes1023</span>      | <span class="crew">4 SNCE</span> |                             |
-| <span>Nihiliz</span>         | <span class="crew">0 SNCE</span> |                             |
-| <span>Turrid</span>          | <span class="crew">0 SNCE</span> |                             |
-| <span>Pyr0g3n</span>         | <span class="crew">0 SNCE</span> |                             |
-| <span>smazzy187</span>       | <span class="crew">0 SNCE</span> |                             |
-| <span>GRILT_CHEEZ</span>     | <span class="crew">0 SNCE</span> |                             |
-| <span>OUTBREAK2323</span>    | <span class="crew">0 SNCE</span> |                             |
-| <span>Justinsgamez</span>    | <span class="crew">0 SNCE</span> |                             |
-| <span>TheNousKid</span>      | <span class="crew">0 SNCE</span> |                             |
-| <span>realsaladass</span>    | <span class="crew">0 SNCE</span> |                             |
+| <span>Vyren11</span>         | <span class="crew">5 snce</span> | The leader of the [Disciples of SCIENCE](https://socialclub.rockstargames.com/crew/disciples_of_science) |
+| <span>cncman30</span>        | <span class="crew">4 snce</span> |                             |
+| <span>DuckterZoidberg</span> | <span class="crew">5 zoid</span> |                             |
+| <span>HeyitsJim</span>       | <span class="crew">4 snce</span> |                             |
+| <span>ClemFoxxin</span>      | <span class="crew">2 snce</span> |                             |
+| <span>muhmem9268-</span>     | <span class="crew">0 snce</span> |                             |
+| <span>Grapes1023</span>      | <span class="crew">4 snce</span> |                             |
+| <span>Nihiliz</span>         | <span class="crew">0 snce</span> |                             |
+| <span>Turrid</span>          | <span class="crew">0 snce</span> |                             |
+| <span>Pyr0g3n</span>         | <span class="crew">0 snce</span> |                             |
+| <span>smazzy187</span>       | <span class="crew">0 snce</span> |                             |
+| <span>GRILT_CHEEZ</span>     | <span class="crew">0 snce</span> |                             |
+| <span>OUTBREAK2323</span>    | <span class="crew">0 snce</span> |                             |
+| <span>Justinsgamez</span>    | <span class="crew">0 snce</span> |                             |
+| <span>TheNousKid</span>      | <span class="crew">0 snce</span> |                             |
+| <span>realsaladass</span>    | <span class="crew">0 snce</span> |                             |
