@@ -5,7 +5,7 @@
 **Completed By:** <span>Vyren11</span> (Bus Driver), <span>Vyren11</span> (Train Scout), <span>DuckterZoidburg</span> (Train Scout), <span>TheNousKid</span> (Somewhere Nearby), <span>realsaladass</span> (Bus Passenger)
 
 ## Idea
-We have Pegasus bring us a Prison Bus and then we drive it off of a bridge and into the flatbed of a train. 
+We have Pegasus bring us a Prison Bus and then we drive it off of a bridge into the flatbed of a train. 
 
 ## Report
 Once the bus is in place we had <span>cncman30</span> and <span>DuckterZoidberg</span> drove their cars down the tracks to make a train come. Then they got on the train and rode back to me, allowing me to see the progress of the train. 
