@@ -14,9 +14,9 @@ This is a list of players with whom members of the [Disciples of SCIENCE](https:
 | <span>Nihiliz</span>         | <span class="crew">0 snce</span> |                             |
 | <span>Turrid</span>          | <span class="crew">0 snce</span> |                             |
 | <span>Pyr0g3n</span>         | <span class="crew">0 snce</span> |                             |
-| <span>smazzy187</span>       | <span class="crew">0 snce</span> |                             |
+| <span>smazzy187</span>       | <span class="crew">2 snce</span> |                             |
 | <span>GRILT_CHEEZ</span>     | <span class="crew">0 snce</span> |                             |
 | <span>OUTBREAK2323</span>    | <span class="crew">0 snce</span> |                             |
-| <span>Justinsgamez</span>    | <span class="crew">0 snce</span> |                             |
+| <span>Justinsgamez</span>    | <span class="crew">2 snce</span> |                             |
 | <span>TheNousKid</span>      | <span class="crew">0 snce</span> |                             |
 | <span>realsaladass</span>    | <span class="crew">0 snce</span> |                             |
