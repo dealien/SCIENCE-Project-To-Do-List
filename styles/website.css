@@ -116,6 +116,7 @@ span.suspended {
 
 
 /* Crew Tag Style */
+
 .crewTag {
   background: url(https://socialclub.rockstargames.com/images/crew-community/cards/crew-tags-v2.svg) no-repeat 0 0;
   background-size: 64px 46px;
@@ -172,4 +173,6 @@ span.suspended {
   display: block;
   border-radius: 0 0 1px 1px
 }
+
+
 /* End Crew Tag Style */
