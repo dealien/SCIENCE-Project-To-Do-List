@@ -38,4 +38,4 @@ The massive tug boat used in some CEO deliveries. It's the largest boat in the g
 
 ## Dump
 
-A giant dump truck found at the mines. It can be purchased from Warstock Cache & Carry for $1,000,000. It can seat 1 person, but others can ride on the outside. 
+A giant dump truck found at the mines. It is also known as the HVY Dump. It can be purchased from Warstock Cache & Carry for $1,000,000. It can seat 1 person, but others can ride on the outside. 
