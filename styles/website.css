@@ -1,52 +1,71 @@
 /* CSS for website */
+
 .faq-header {
   background-image: url("https://i.imgur.com/8CvG4yh.png");
   background-repeat: no-repeat;
   background-position: center top;
 }
 
-p, li, #current-projects {
+p,
+li,
+#current-projects {
   color: #000000;
 }
 
-.description a, .description a:visited, .description a:hover {
-    color: #bf11de;
-    text-decoration: none;
+.description a,
+.description a:visited,
+.description a:hover {
+  color: #bf11de;
+  text-decoration: none;
 }
 
 .description a:hover {
-    color: #bf11de;
-    text-decoration: underline;
+  color: #bf11de;
+  text-decoration: underline;
 }
 
+.faq-page a,
+.faq-page a:visited,
+{
+  color: #bf11de;
+  text-decoration: none;
+}
+
+.faq-page a:hover {
+  color: #bf11de;
+  text-decoration: underline;
+}
 
 
 /* Image Gallery Style */
+
 div.img {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 48%;
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 48%;
 }
 
 div.img:hover {
-    border: 1px solid #777;
+  border: 1px solid #777;
 }
 
 div.img img {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 
 div.desc {
-    padding: 15px;
-    text-align: center;
+  padding: 15px;
+  text-align: center;
 }
+
+
 /* End Image Gallery Style */
 
 
-
 /* Status Marker Style */
+
 span.status {
   font-family: 'Fira Sans', sans-serif;
   background: #ccc;
@@ -92,4 +111,6 @@ span.suspended {
   background-image: linear-gradient(#f8d030, #dd6610);
   border-color: #c19b07
 }
+
+
 /* End Status Marker Style */
