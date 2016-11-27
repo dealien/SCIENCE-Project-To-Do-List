@@ -10,5 +10,5 @@
 * [Pick up a Bus with a Cargobob](pick_up_a_bus_with_a_cargobob.md)
 * [Pick people up from the ocean with a helicopter](pick_people_up_from_the_ocean_with_a_helicopter.md)
 * [Land a Luxor on a yacht](land_a_luxor_on_a_yacht.md)
-* Drive a Bus off Mount Chiliad
+* [Drive a Bus off Mount Chiliad](drive_a_bus_off_mount_chiliad.md)
 
