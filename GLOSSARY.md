@@ -34,7 +34,7 @@ A massive military cargo plane.
 
 ## Tug
 
-The massive tug boat used in some CEO deliveries. It's the largest boat in the game. It doesn't really have a maximum capacity because there are no actual seats, but people don't fall off of it so you can stand pretty much anywhere. 
+The massive tug boat used in some CEO deliveries. It's the largest boat in the game. It doesn't really have a maximum capacity because there are no actual seats, but people don't fall off of it so you can stand pretty much anywhere. It can be purchaced from DockTease for $1,250,000. 
 
 ## Dump
 
