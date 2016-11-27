@@ -1,6 +1,6 @@
 # Player List
 
-This is a list of players with whom members of the [Disciples of SCIENCE](https://socialclub.rockstargames.com/crew/disciples_of_science) have played. These may be people who helped with SCIENCE projects, ran missions with us, or even just fun to play with. 
+This is a list of players with whom members of the [Disciples of SCIENCE](https://socialclub.rockstargames.com/crew/disciples_of_science) have played. These may be people who helped with SCIENCE projects, ran missions with us, or even people who were just fun to play with. 
 
 |            Player            |               Crew               |            Notes            |
 |------------------------------|----------------------------------|-----------------------------|
