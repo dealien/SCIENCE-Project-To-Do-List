@@ -1,19 +1,9 @@
-document.body.onload = addElement;
-document.body.onload = testjQuery;
-document.body.onload = linkNames;
-document.body.onload = crewTags;
+document.body.onload = start;
 
-var nodeText = "This is the new text element.";
-console.log("nodeText = " + nodeText);
-
-function addElement() {
-  console.log("Running function addElement()");
-  var para = document.createElement("p");
-  var node = document.createTextNode(nodeText);
-  para.appendChild(node);
-
-  var element = document.getElementById("div1");
-  element.appendChild(para);
+function start() {
+  testjQuery();
+  linkNames();
+  crewTags();
 }
 
 function testjQuery() {
