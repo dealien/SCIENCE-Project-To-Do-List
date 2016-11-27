@@ -50,7 +50,7 @@ function crewTags() {
     if (rank > 0) {
       var i, j, ref;
       for (i = j = 1, ref = rank; 1 <= ref ? j <= ref : j >= ref; i = 1 <= ref ? ++j : --j) {
-        tag += '<span id="' + crew + '"></span>';
+        tag += '<span class="rank-banner"id="' + crew + '"></span>';
       }
     }
     tag += '</span></div></div>'
