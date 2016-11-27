@@ -6,7 +6,7 @@ A delivery truck. It resembles those used by real-life companies such as Poland 
 
 ## Cargobob
 
-It's the giant, twin-engine helicopter. It can pick up and carry vehicles underneath it using a deployable hook. It can be bought from Warstock Cache & Carry. It can carry 6 people. 
+It's the giant, twin-engine helicopter. It can pick up and carry vehicles underneath it using a deployable hook. It can be purchased from Warstock Cache & Carry. It can carry 6 people. 
 
 ## Insurgent
 
@@ -18,15 +18,15 @@ Abbreviation for Motorcycle Club
 
 ## Prison Bus
 
-The small, blue bus sometimes seen at or around the prison. It can be bought from Warstock Cache & Carry for $550,000 after completing The Prison Break (heist finale). It can seat 11 people. 
+The small, blue bus sometimes seen at or around the prison. It can be purchased from Warstock Cache & Carry for $550,000 after completing The Prison Break (heist finale). It can seat 11 people. 
 
 ## Rhino
 
-The Rhino is the only tank in GTA V. It can be bought from Warstock Cache & Carry for $1,500,000. It can seat 1 person. 
+The Rhino is the only tank in GTA V. It can be purchased from Warstock Cache & Carry for $1,500,000. It can seat 1 person. 
 
 ## SuperVolito Carbon
 
-A luxury helicopter that spawns on luxury yachts. It can be bought from Elitas Travel for $3,330,000. 
+A luxury helicopter that spawns on luxury yachts. It can be purchased from Elitas Travel for $3,330,000. 
 
 ## Titan
 
