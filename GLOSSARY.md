@@ -2,7 +2,7 @@
 
 ## Benson
 
-A delivery truck. It resembles those used by real-life companies such as Poland Springs. It often used in crate sale police busts to block off an alley or road. We have also found them during certain Motorcycle Club missions. 
+A delivery truck. It resembles those used by real-life companies such as Poland Springs. It often used in crate sale police busts to block off an alley or road. We have also found them during certain Motorcycle Club missions. It cannot be purchased. 
 
 ## Cargobob
 
