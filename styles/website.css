@@ -119,7 +119,7 @@ span.suspended {
 
 /* Crew Tag Style */
 
-.crewTag {
+.crew-tag {
   background: url(https://socialclub.rockstargames.com/images/crew-community/cards/crew-tags-v2.svg) no-repeat 0 0;
   background-size: 64px 46px;
   height: 23px;
@@ -136,11 +136,11 @@ span.suspended {
   text-indent: 20px
 }
 
-.crewTag.private {
+.crew-tag.private {
   background-position: bottom
 }
 
-.crewTag .hierarchy {
+.crew-tag .hierarchy {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -149,7 +149,7 @@ span.suspended {
   display: block
 }
 
-.crewTag .hierarchy span {
+.crew-tag .hierarchy span {
   width: 12px;
   height: 2px;
   margin-left: 1px;
@@ -157,16 +157,16 @@ span.suspended {
   display: block
 }
 
-.crewTag .hierarchy span:first-child {
+.crew-tag .hierarchy span:first-child {
   margin-left: 0;
   border-radius: 0 0 0 1px
 }
 
-.crewTag .hierarchy span:nth-child(5n) {
+.crew-tag .hierarchy span:nth-child(5n) {
   border-radius: 0 0 1px
 }
 
-.crewTag .crewColor {
+.crew-tag .crewColor {
   position: absolute;
   bottom: 0;
   left: 0;
