@@ -2,9 +2,9 @@
 
 This is a list of players with whom members of the Disciples of SCIENCE have played. These may be people who helped with SCIENCE projects, ran missions with us, or even just fun to play with. 
 
-|            Player            | Crew Status |         Notes          |
+|            Player            | Crew |         Notes          |
 |------------------------------|-------------|------------------------|
-| <span>Vyren11</span>         | Rank 5      | The leader of the crew |
+| <span>Vyren11</span>         | <span class="crew">1 TEST</span>      | The leader of the crew |
 | <span>cncman30</span>        | Rank 4      |                        |
 | <span>DuckterZoidberg</span> | Rank        |                        |
 | <span>HeyitsJim</span>       | Rank 4      |                        |
