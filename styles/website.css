@@ -15,8 +15,7 @@ li,
 }
 
 .description a,
-.description a:visited,
-.description a:hover {
+.description a:visited {
   color: #bf11de;
   text-decoration: none;
 }
