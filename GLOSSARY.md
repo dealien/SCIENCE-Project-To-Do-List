@@ -26,7 +26,7 @@ The Rhino is the only tank in GTA V. It can be purchased from Warstock Cache & C
 
 ## SuperVolito Carbon
 
-A luxury helicopter that spawns on luxury yachts. It can be purchased from Elitas Travel for $3,330,000. 
+A luxury helicopter that spawns on luxury yachts. It is an upgraded version of the standard SuperVolito helicopter. It can be purchased from Elitas Travel for $3,330,000. 
 
 ## Titan
 
