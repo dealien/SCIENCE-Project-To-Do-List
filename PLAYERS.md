@@ -2,21 +2,23 @@
 
 This is a list of players with whom members of the Disciples of SCIENCE have played. These may be people who helped with SCIENCE projects, ran missions with us, or even just fun to play with. 
 
-|            Player            | Crew |         Notes          |
-|------------------------------|-------------|------------------------|
-| <span>Vyren11</span>         | <span class="crew">1 TEST</span>      | The leader of the crew |
-| <span>cncman30</span>        | Rank 4      |                        |
-| <span>DuckterZoidberg</span> | Rank        |                        |
-| <span>HeyitsJim</span>       | Rank 4      |                        |
-| <span>ClemFoxxin</span>      | Rank        |                        |
-| <span>muhmem9268-</span>     | Rank        |                        |
-| <span>Grapes1023</span>      | Rank 4      |                        |
-| <span>Nihiliz</span>         | Rank        |                        |
-| <span>Turrid</span>          | Rank        |                        |
-| <span>Pyr0g3n</span>         | Rank        |                        |
-| <span>smazzy187</span>       | Rank        |                        |
-| <span>GRILT_CHEEZ</span>     | Rank        |                        |
-| <span>OUTBREAK2323</span>    | Rank        |                        |
-| <span>Justinsgamez</span>    | Rank        |                        |
-| <span>TheNousKid</span>      | Rank        |                        |
-| <span>realsaladass</span>    | Rank        |                        |
+|            Player            |               Crew               |            Notes            |
+|------------------------------|----------------------------------|-----------------------------|
+| <span>Vyren11</span>         | <span class="crew">5 SNCE</span> | The leader of the Disciples |
+|                              |                                  | of SCIENCE                  |
+|------------------------------|----------------------------------|-----------------------------|
+| <span>cncman30</span>        | <span class="crew">4 SNCE</span> |                             |
+| <span>DuckterZoidberg</span> | <span class="crew">0 SNCE</span> |                             |
+| <span>HeyitsJim</span>       | <span class="crew">0 SNCE</span> |                             |
+| <span>ClemFoxxin</span>      | <span class="crew">0 SNCE</span> |                             |
+| <span>muhmem9268-</span>     | <span class="crew">0 SNCE</span> |                             |
+| <span>Grapes1023</span>      | <span class="crew">0 SNCE</span> |                             |
+| <span>Nihiliz</span>         | <span class="crew">0 SNCE</span> |                             |
+| <span>Turrid</span>          | <span class="crew">0 SNCE</span> |                             |
+| <span>Pyr0g3n</span>         | <span class="crew">0 SNCE</span> |                             |
+| <span>smazzy187</span>       | <span class="crew">0 SNCE</span> |                             |
+| <span>GRILT_CHEEZ</span>     | <span class="crew">0 SNCE</span> |                             |
+| <span>OUTBREAK2323</span>    | <span class="crew">0 SNCE</span> |                             |
+| <span>Justinsgamez</span>    | <span class="crew">0 SNCE</span> |                             |
+| <span>TheNousKid</span>      | <span class="crew">0 SNCE</span> |                             |
+| <span>realsaladass</span>    | <span class="crew">0 SNCE</span> |                             |
