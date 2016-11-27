@@ -25,8 +25,7 @@ li,
 }
 
 .faq-page a,
-.faq-page a:visited,
-{
+.faq-page a:visited {
   color: #bf11de;
   text-decoration: none;
 }
