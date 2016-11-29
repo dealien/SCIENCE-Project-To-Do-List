@@ -24,7 +24,7 @@ The large armored truck. There are two versions: the regular Insurgent and the I
 
 Abbreviation for Motorcycle Club
 
-## <a name="Prison_Bus"></a>Prison Bus
+## Prison Bus
 
 The small, blue bus sometimes seen at or around the prison. It can be purchased from Warstock Cache & Carry for $550,000 after completing The Prison Break (heist finale). It can seat 11 people. 
 
