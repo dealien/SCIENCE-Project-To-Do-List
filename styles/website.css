@@ -3,7 +3,7 @@
 @font-face {
   font-family: "Bitstream Vera Sans Mono";
   src: url("fonts/BitstreamVeraSansMono-Bold.eot");
-  src: url("fonts/BitstreamVeraSansMono-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/BitstreamVeraSansMono-Bold.woff") format("woff"), url("fonts/BitstreamVeraSansMono-Bold.ttf") format("truetype");
+  src: url("fonts/BitstreamVeraSansMono-Bold.eot?#iefix") format("embedded-opentype"), url(/"fonts/BitstreamVeraSansMono-Bold.woff") format("woff"), url("fonts/BitstreamVeraSansMono-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
