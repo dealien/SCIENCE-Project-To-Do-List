@@ -133,8 +133,7 @@ span.suspended {
   background-size: 64px 46px;
   height: 23px;
   width: 64px;
-  /*   font-family: "Bitstream Vera Sans Mono", Monaco, "Lucida Console", Terminal, monospace; */
-  font-family: "Bitstream Vera Sans Mono";
+  font-family: "Bitstream Vera Sans Mono", Monaco, "Lucida Console", Terminal, monospace;
   font-size: 13px;
   line-height: 23px;
   text-shadow: 0 1px 1px rgba(255, 255, 255, .6);
