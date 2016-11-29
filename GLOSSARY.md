@@ -46,4 +46,4 @@ The massive tug boat used in some CEO deliveries. It's the largest boat in the g
 
 ## Bus
 
-*"Bus" could also refer to a [Prison Bus](#Prison_Bus), *
+*"Bus" could also refer to a [Prison Bus](#Prison_Bus), Tour Bus, Airport Bus*
