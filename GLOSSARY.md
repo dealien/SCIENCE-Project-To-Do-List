@@ -8,6 +8,14 @@ A delivery truck. It resembles those used by real-life companies such as Poland 
 
 It's the giant, twin-engine helicopter. It can pick up and carry vehicles underneath it using a deployable hook. It can be purchased from Warstock Cache & Carry. It can carry 6 people. 
 
+## Dump
+
+A giant dump truck found at the mines. It is also known as the HVY Dump. It can be purchased from Warstock Cache & Carry for $1,000,000. It can seat 1 person, but others can ride on the outside. 
+
+## HVY Dump
+
+See Dump
+
 ## Insurgent
 
 The large armored truck. There are two versions: the regular Insurgent and the Insurgent Pick-Up. The second version comes with a roof-mounted mini-gun. They can be purchased from Warstock Cache & Carry upon completion of the Humane Labs Raid. 
@@ -36,9 +44,6 @@ A massive military cargo plane.
 
 The massive tug boat used in some CEO deliveries. It's the largest boat in the game. It doesn't really have a maximum capacity because there are no actual seats, but people don't fall off of it so you can stand pretty much anywhere. It can be purchased from DockTease for $1,250,000. 
 
-## HVY Dump
-See Dump
+## Bus
 
-## Dump
-
-A giant dump truck found at the mines. It is also known as the HVY Dump. It can be purchased from Warstock Cache & Carry for $1,000,000. It can seat 1 person, but others can ride on the outside. 
+A
