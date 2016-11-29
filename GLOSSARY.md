@@ -46,6 +46,6 @@ The massive tug boat used in some CEO deliveries. It's the largest boat in the g
 
 ## Bus
 
-*"Bus" could also refer to the [Prison Bus](#prison-bus), Tour Bus, or Airport Bus*
+*This could also refer to the [Prison Bus](#prison-bus), Tour Bus, or Airport Bus*
 
-Test
+The Bus can be found randomly driving throughout Los Santos. 
