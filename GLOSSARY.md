@@ -48,4 +48,4 @@ The massive tug boat used in some CEO deliveries. It's the largest boat in the g
 
 *This could also refer to the [Prison Bus](#prison-bus), Tour Bus, or Airport Bus*
 
-The Bus can be found randomly driving throughout Los Santos. They are more common on work days during the day. 
+Buses can be found randomly driving throughout Los Santos. They are more common on work days during the day. The Bus can be purchased from Warstock Cache & Carry. 
