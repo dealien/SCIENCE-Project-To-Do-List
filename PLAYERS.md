@@ -22,3 +22,4 @@ This is a list of players with whom members of the [Disciples of SCIENCE](https:
 | <span>realsaladass</span>    | <span class="crew">2 snce</span> |       |
 | <span>Vltor92</span>         | <span class="crew">5 sort</span> |       |
 | <span>killerson6</span>      | <span class="crew">3 rage</span> |       |
+| <span>Sphiinx</span>         |                                  |       |
