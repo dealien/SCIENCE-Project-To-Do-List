@@ -1,4 +1,4 @@
-/* @import url(//db.onlinewebfonts.com/c/0ead53f2aa201ff8c7b63d37769e0a02?family=Bitstream+Vera+Sans+Mono); */
+@import url(//db.onlinewebfonts.com/c/0ead53f2aa201ff8c7b63d37769e0a02?family=Bitstream+Vera+Sans+Mono);
 
 @font-face {
   font-family: "Bitstream Vera Sans Mono";
@@ -211,4 +211,8 @@ span#sr71 {
 
 span#sort {
   background: #025599;
+}
+
+span#rage {
+  background: #d90b0b
 }
