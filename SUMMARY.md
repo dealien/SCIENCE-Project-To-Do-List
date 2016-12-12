@@ -12,4 +12,5 @@
 * [Land a Luxor on a yacht](land_a_luxor_on_a_yacht.md)
 * [Drive a Bus off Mount Chiliad](drive_a_bus_off_mount_chiliad.md)
 * [Player List](PLAYERS.md)
+* [Take a Tug up river from the ocean to Sandy Shores](take-a-tug-up-river-from-the-ocean-to-sandy-shores.md)
 
