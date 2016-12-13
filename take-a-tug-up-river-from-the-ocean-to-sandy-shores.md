@@ -1,6 +1,9 @@
 #Pick up a Bus with a Cargobob
-**Status:** <span class="status todo">To Do</span>
+
+**Status:** <span class="status failure">Failure</span>
+
 **Completed By:** N/A
+
 **Completion Date:** N/A
 
 ## Info
