@@ -8,7 +8,7 @@ This is a list of players with whom members of the [Disciples of SCIENCE](https:
 | <span>cncman30</span>        | <span class="crew">4 snce</span> |       |
 | <span>DuckterZoidberg</span> | <span class="crew">5 zoid</span> |       |
 | <span>HeyitsJim</span>       | <span class="crew">4 snce</span> |       |
-| <span>ClemFoxxin</span>      | <span class="crew">2 snce</span> |       |
+| <span>TroyFoxxin</span>      | <span class="crew">2 snce</span> |       |
 | <span>muhmem9268-</span>     | <span class="crew">1 pgc1</span> |       |
 | <span>Grapes1023</span>      | <span class="crew">4 snce</span> |       |
 | <span>Nihiliz</span>         | <span class="crew">2 snce</span> |       |
