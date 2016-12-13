@@ -16,6 +16,5 @@ We made sure that we didn't drop the Rhino onto the boat by touching down gently
 
 There was one person in the Rhino and one person on the Tug, but their weights were insignificant. It was the weight of the Rhino alone that brought the Tug down. 
 
-
 ## Records
 <!-- hopefully my recordings of this SCIENCE project are still around... -->
