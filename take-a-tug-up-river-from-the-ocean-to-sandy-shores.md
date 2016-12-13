@@ -2,9 +2,9 @@
 
 **Status:** <span class="status failure">Failure</span>
 
-**Completed By:** N/A
+**Attempted By:** <span>cncman30</span> (Boat Driver), 
 
-**Completion Date:** N/A
+**Date of Attempt:** December 12th, 2016
 
 ## Info
 Just a relaxing river cruise, devoid of any fire, explosions or death... No, really. Trust me. 
