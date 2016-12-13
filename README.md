@@ -4,6 +4,8 @@ Don't ask why it says "FAQ" everywhere. It just does and there's nothing I can d
 
 Also, for some reason when you click on an image the first time it doesn't always take you to the correct page. If that happens, just click on the image again. 
 
+[Discord server](https://discord.gg/4GHBDpf)
+
 ### Current Projects
 * Put a Rhino on a train
 * Glitch into a train cabin
