@@ -12,4 +12,5 @@
 * [Land a Luxor on a yacht](land_a_luxor_on_a_yacht.md)
 * [Player List](PLAYERS.md)
 * [Take a Tug up river from the ocean to Sandy Shores](take-a-tug-up-river-from-the-ocean-to-sandy-shores.md)
+* [Pull a trailer with the Phantom Wedge](pull-a-trailer-with-the-phantom-wedge.md)
 
