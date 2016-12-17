@@ -11,3 +11,4 @@ Also, for some reason when you click on an image the first time it doesn't alway
 * Glitch into a train cabin
 * Pick up a Bus with a Cargobob
 * Pick people up from the ocean with a helicopter
+* Pick up a Bus with a Cargobob
