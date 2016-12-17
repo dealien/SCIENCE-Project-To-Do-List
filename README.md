@@ -6,6 +6,8 @@ Also, for some reason when you click on an image the first time it doesn't alway
 
 [Discord server](https://discord.gg/4GHBDpf)
 
+[Crew page](https://socialclub.rockstargames.com/crew/disciples_of_science)
+
 ### Current Projects
 * Put a Rhino on a train
 * Glitch into a train cabin
