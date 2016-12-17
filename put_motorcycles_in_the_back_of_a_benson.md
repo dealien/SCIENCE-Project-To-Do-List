@@ -2,11 +2,11 @@
 
 **Status:** <span class="status suspended">Suspended</span>
 
-**Attempted By:** <span>Vyren11</span>, <span>cncman30</span>, <span>Grapes1023</span>
+**Attempted By:** <span>Vyren11</span>, <span>cncman30</span>, <span>Grapes1023</span>, <span>OUTBREAK2323</span>
 
 **Times Attempted:** 1
 
-**Attempted On:** Wednesday, November 23, 2016
+**Attempted On:** November 23, 2016
 
 ## Idea
 

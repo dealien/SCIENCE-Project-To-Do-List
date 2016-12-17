@@ -21,5 +21,5 @@ This is a list of players with whom members of the [Disciples of SCIENCE](https:
 | <span>TheNousKid</span>      | <span class="crew">0 ????</span> |       |
 | <span>realsaladass</span>    | <span class="crew">2 snce</span> |       |
 | <span>Vltor92</span>         | <span class="crew">5 sort</span> |       |
-| <span>killerson6</span>      | <span class="crew">3 rage</span> |       |
+| <span>killerson6</span>      | <span class="crew">4 snce</span> |       |
 | <span>Sphiinx</span>         |                                  |       |

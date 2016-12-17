@@ -4,7 +4,7 @@
 
 **Completed By:** <span>Vyren11</span> (Tank Driver), <span>cncman30</span> (Tank Driver), <span>GRILT_CHEEZ</span> (Tank Driver)
 
-**Completion Date:** Friday, November 18, 2016
+**Completion Date:** November 18, 2016
 
 
 ## Info
