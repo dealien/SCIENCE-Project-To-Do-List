@@ -1,4 +1,4 @@
-# Pick up a Bus with a Cargobob
+# Pull a trailer with the new truck
 
 **Status:** <span class="status todo">To Do</span>
 
