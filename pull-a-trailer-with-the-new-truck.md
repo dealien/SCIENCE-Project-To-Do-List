@@ -1,8 +1,8 @@
 # Pull a trailer with the new truck
 
-**Status:** <span class="status todo">To Do</span>
+**Status:** <span class="status success">Success</span>
 
-**Attempted By:** N/A
+**Attempted By:** <span>Vyren11</span> (Truck Driver), <span>cncman30</span> (Support), <span>HeyitsJim</span> (Support)
 
 **Date of Attempt:** N/A
 
