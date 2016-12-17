@@ -49,3 +49,7 @@ The massive tug boat used in some CEO deliveries. It's the largest boat in the g
 *This could also refer to the [Prison Bus](#prison-bus), Tour Bus, or Airport Bus*
 
 Buses can be found randomly driving throughout Los Santos. They are more common on work days during the day. The Bus can be purchased from Warstock Cache & Carry for $500,000. 
+
+## Phantom Wedge
+
+The Phantom Wedge is a special version of the Phantom truck cab with a large car plow mounted on the front. It was added in the Import/Export update. It can be purchased from Warstock Cache & Carry for $2,553,600 or $1,920,000 (SecuroServ trade price). 
