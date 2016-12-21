@@ -8,6 +8,8 @@
     * <span>Vyren11</span>, <span>cncman30</span>, <span>realsaladass</span>
 * November 23, 2016
     * <span>Vyren11</span>, <span>cncman30</span>, <span>Grapes1023</span>, <span>OUTBREAK2323</span>
+* December 19, 2016
+    * <span>Vyren11</span>, <span>cncman30</span>, <span>Grapes1023</span>, <span>HeyitsJim</span>
 
 ## Idea
 We find a Benson delivery truck somewhere, open the back, and use it to carry bikes and stuff around. It'll be awesome!
