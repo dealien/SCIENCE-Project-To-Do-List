@@ -6,7 +6,7 @@
 **Attempted By:** <span>Vyren11</span>, <span>cncman30</span>, <span>HeyitsJim</span>, <span>TroyFoxxin</span>
 
 ## Info
-Just dive out of a helicoptor or plane and into a swimming pool. Sounds easy enough, right? No, no it doesn't. But that's why we're doing it! 
+Just dive into a swimming pool...from a helicoptor... Sounds easy enough, right? No, no it doesn't. But that's why we're doing it! 
 
 ## Report
 That was a collosal failure. The swimming pools made REALLY tiny targets, and we couldn't just drop straight down. We would always drift forwards slightly, which was really annoying. 
