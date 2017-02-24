@@ -3,7 +3,7 @@
 **Status:** <span class="status attempted">Attempted</span>
 
 **Attempts:** 
-* February 20th, 2017
+* February 20, 2017
     * <span>VyrenGames</span>, <span>cncman30</span>, <span>YourDriverJim</span>
 
 
