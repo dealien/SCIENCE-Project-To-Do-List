@@ -14,4 +14,5 @@
 * [Take a Tug up river from the ocean to Sandy Shores](take-a-tug-up-river-from-the-ocean-to-sandy-shores.md)
 * [Pull a trailer with the Phantom Wedge](pull-a-trailer-with-the-phantom-wedge.md)
 * [Dive into a swimming pool](dive-into-a-swimming-pool.md)
+* [Discord Chat Remote Client](discord-chat-remote-client.md)
 
