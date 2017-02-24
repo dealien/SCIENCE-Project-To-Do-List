@@ -15,14 +15,13 @@
 </style>
 
 <script>
+var username = 'John Bread';
 var userid = Math.floor((Math.random() * 1000000) + 1);
-document.getElementById('username').innerHTML = 'John Bread';
+document.getElementById('username').innerHTML = username;
 
 function send() {
    var hookurl = "https://discordapp.com/api/webhooks/257734345287139328/nVUTTeJA9lBGd_-RPJUDIzM3Cr3bA_L6dCnuHPiJsAUdaSlqC1th1gLdyAg-0XcZRV5w" + "/slack";
-   
-   
-   
+
    var msgJson = {
       "username": "John Bread",
       "icon_url": "http://alanhardaker.co.za/wp-content/uploads/2014/08/Testimonial-Male-Icon.png",
