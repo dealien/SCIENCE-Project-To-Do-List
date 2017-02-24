@@ -2,7 +2,7 @@
 
 **Status:** <span class="status success">Success</span>
 
-**Completed By:** <span>Vyren11</span> (Bystander), <span>Vltor92</span> (Pilot)
+**Completed By:** <span>Vltor92</span> (Pilot), <span>Vyren11</span> (Witness)
 
 **Completion Date:** *Get from video recording of the landing*
 
