@@ -5,6 +5,7 @@ This is a list of players with whom members of the [Disciples of SCIENCE](https:
 |            Player            |               Crew               | Notes |
 |------------------------------|----------------------------------|-------|
 | <span>Vyren11</span>         | <span class="crew">5 snce</span> |       |
+| <span>VyrenGames</span>      | <span class="crew">0 ????</span> |       |
 | <span>cncman30</span>        | <span class="crew">4 snce</span> |       |
 | <span>DuckterZoidberg</span> | <span class="crew">5 zoid</span> |       |
 | <span>HeyitsJim</span>       | <span class="crew">4 snce</span> |       |
@@ -22,4 +23,3 @@ This is a list of players with whom members of the [Disciples of SCIENCE](https:
 | <span>realsaladass</span>    | <span class="crew">2 snce</span> |       |
 | <span>Vltor92</span>         | <span class="crew">5 sort</span> |       |
 | <span>killerson6</span>      | <span class="crew">4 snce</span> |       |
-| <span>Sphiinx</span>         |                                  |       |
