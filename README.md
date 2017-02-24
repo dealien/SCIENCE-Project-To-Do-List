@@ -4,7 +4,7 @@ Also, for some reason when you click on an image the first time it doesn't alway
 
 Anyone is welcome on our official [Discord server](https://discord.gg/4GHBDpf). If you are interested in joining the crew, just ask one of the leaders on Discord for an invite. 
 
-[Crew page](https://socialclub.rockstargames.com/crew/disciples_of_science)
+Visit the [crew page](https://socialclub.rockstargames.com/crew/disciples_of_science) on the Rockstar Social Club. 
 
 ### Current Projects
 * Put a Rhino on a train
