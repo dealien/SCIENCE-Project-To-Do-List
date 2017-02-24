@@ -1,5 +1,3 @@
-# John Bread
-
 <div>
    <h2 id="username"></h2>
    <input id="content" type="text" placeholder="message"></textarea>
