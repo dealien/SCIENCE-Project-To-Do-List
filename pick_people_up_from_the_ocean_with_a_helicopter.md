@@ -3,7 +3,6 @@
 **Status:** <span class="status attempted">Attempted</span>
 
 **Attempts:** 
-
 * ???
     * <span>VyrenGames</span>, <span>cncman30</span>, <span>YourDriverJim</span>
 
