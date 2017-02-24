@@ -14,7 +14,9 @@ We need to find a somewhat foolproof way of doing this, and identify the correct
 
 ## Report
 ### Attempt 1
-We attempted to do this in a SuperVolito Carbon off the side of <span>cncman30</span>'s yacht, but it didn't work at all. Clearly different helicopters will work better than others because the Buzzard has been able to pick people up from water much more easily than that. 
+We attempted to do this in a SuperVolito Carbon off the side of <span>cncman30</span>'s yacht, but it didn't work at all. We tried picking people up straight from the water, and also while they were standing on the wreckage of a Dinghy 
+
+Clearly different helicopters will work better than others because the Buzzard has been able to pick people up from water much more easily than that. 
 
 ## Records
 
