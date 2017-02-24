@@ -4,7 +4,7 @@
 
 **Completed By:** <span>Vltor92</span> (Pilot), <span>Vyren11</span> (Witness)
 
-**Completion Date:** *Get from video recording of the landing*
+**Completion Date:** N/A
 
 ## Idea
 Land a Luxor jet on a yacht. 
