@@ -13,7 +13,7 @@ It would be so nice to be able to do this, but Rockstar seems to have missed tha
 We need to find a somewhat foolproof way of doing this, and identify the correct vehicle for the job. 
 
 ## Report
-We attempted to do this in a SuperVolito Carbon off the side of <span>cncman30</span>'s yacht, and it didn't work at all. 
+We attempted to do this in a SuperVolito Carbon off the side of <span>cncman30</span>'s yacht, but it didn't work at all. Clearly different helicopters will work better than others because the Buzzard has been able to pick people up from water much more easily than that. 
 
 ## Records
 
