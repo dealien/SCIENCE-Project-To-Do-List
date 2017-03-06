@@ -11,4 +11,4 @@ Visit the [crew page](https://socialclub.rockstargames.com/crew/disciples_of_sci
 * Put a Rhino on a train
 * Glitch into a train cabin
 * Pick up a Bus with a Cargobob
-* Pick people up from the ocean with a helicopter
+* Come up with 
