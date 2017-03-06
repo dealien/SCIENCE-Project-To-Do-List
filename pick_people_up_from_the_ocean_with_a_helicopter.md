@@ -1,6 +1,6 @@
 # Pick people up from the ocean with a helicopter
 
-**Status:** <span class="status attempted">Attempted</span>
+**Status:** <span class="status success">Success</span>
 
 **Attempts:** 
 * February 20, 2017 <span class="status failure">Failure</span>
@@ -19,6 +19,9 @@ We need to find a somewhat foolproof way of doing this, and identify the correct
 We attempted to do this in a SuperVolito Carbon off the side of <span>cncman30</span>'s yacht, but it didn't work at all. We tried picking people up straight from the water, and also while they were standing on the wreckage of a Dinghy. 
 
 Clearly different helicopters will work better than others because the Buzzard has been able to pick people up from water much more easily than that. 
+
+### Attempt 2
+We did it! It seems that the trick is to get onto either of the weapon racks on the Buzzard, then walk forward. If you try to get into the chopper at the right moment before and as you're falling off then you can. Note that this still skips the animation, so avoid mashing the button or you'll end up jumping into the water again. 
 
 ## Records
 
