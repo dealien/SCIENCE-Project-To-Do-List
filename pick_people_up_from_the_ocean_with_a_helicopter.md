@@ -3,7 +3,9 @@
 **Status:** <span class="status attempted">Attempted</span>
 
 **Attempts:** 
-* February 20, 2017
+* February 20, 2017 <span class="status failure">Failure</span>
+    * <span>VyrenGames</span>, <span>cncman30</span>, <span>YourDriverJim</span>
+* March 4, 2017 <span class="status success">Success</span>
     * <span>VyrenGames</span>, <span>cncman30</span>, <span>YourDriverJim</span>
 
 
