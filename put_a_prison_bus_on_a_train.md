@@ -2,7 +2,7 @@
 
 **Status:** <span class="status success">Success</span>
 
-**Completed By:** <span>Vyren11</span> (Bus Driver), <span>Vyren11</span> (Train Scout), <span>DuckterZoidburg</span> (Train Scout), <span>TheNousKid</span> (Somewhere Nearby), <span>realsaladass</span> (Bus Passenger)
+**Completed By:** <span>VyrenGames</span> (Bus Driver), <span>VyrenGames</span> (Train Scout), <span>DuckterZoidburg</span> (Train Scout), <span>TheNousKid</span> (Somewhere Nearby), <span>realsaladass</span> (Bus Passenger)
 
 ## Info
 We have Pegasus bring us a Prison Bus and then we drive it off of a bridge into the flatbed of a train. 

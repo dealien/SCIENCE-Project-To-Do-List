@@ -2,7 +2,7 @@
 
 **Status:** <span class="status success">Success</span>
 
-**Completed By:** <span>Vyren11</span> (Tank Driver), <span>cncman30</span> (Tank Driver), <span>GRILT_CHEEZ</span> (Tank Driver)
+**Completed By:** <span>VyrenGames</span> (Tank Driver), <span>cncman30</span> (Tank Driver), <span>GRILT_CHEEZ</span> (Tank Driver)
 
 **Completion Date:** November 18, 2016
 
@@ -17,7 +17,7 @@ The problem was that the tanks could ride up on the fence surrounding the track 
 
 The ghosting was useful as it prevented us from blowing each other up by accident. 
 
-In the end, <span>GRILT_CHEEZ</span> finished in first place, <span>Vyren11</span> came in second, and <span>cncman30</span> was last. 
+In the end, <span>GRILT_CHEEZ</span> finished in first place, <span>VyrenGames</span> came in second, and <span>cncman30</span> was last. 
 
 We all agreed that it would have been better with a fourth member, but we were in an empty lobby at the time with no other friends online. 
 

@@ -3,7 +3,7 @@
 
 **Reason for Failure:** The pools did not negate fall damage
 
-**Attempted By:** <span>Vyren11</span>, <span>cncman30</span>, <span>HeyitsJim</span>, <span>TroyFoxxin</span>
+**Attempted By:** <span>VyrenGames</span>, <span>cncman30</span>, <span>HeyitsJim</span>, <span>TroyFoxxin</span>
 
 ## Info
 Just dive into a swimming pool...from a helicopter... Sounds easy enough, right? No, no it doesn't. But that's why we're doing it! 

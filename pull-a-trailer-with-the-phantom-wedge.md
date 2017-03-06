@@ -2,7 +2,7 @@
 
 **Status:** <span class="status success">Success</span>
 
-**Completed By:** <span>Vyren11</span> (Truck Driver), <span>cncman30</span> (Support), <span>HeyitsJim</span> (Support)
+**Completed By:** <span>VyrenGames</span> (Truck Driver), <span>cncman30</span> (Support), <span>HeyitsJim</span> (Support)
 
 **Completion Date:** December 14, 2016
 
@@ -12,6 +12,6 @@ The new truck is so much better than the other trucks. It's faster, stronger, an
 ## Report
 It actually worked! It was so much faster than using the regular truck for Haulage missions. Of course, it was also able to push cars out of the way with the massive plow on the front.
 
-Somehow, <span>Vyren11</span> somehow managed to blow up the cab with C4, but besides that it worked perfectly.
+Somehow, <span>VyrenGames</span> somehow managed to blow up the cab with C4, but besides that it worked perfectly.
 
 ## Records
