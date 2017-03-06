@@ -9,7 +9,7 @@
 Just dive into a swimming pool...from a helicopter... Sounds easy enough, right? No, no it doesn't. But that's why we're doing it! 
 
 ## Report
-That was a collosal failure. The swimming pools made REALLY tiny targets, and we couldn't just drop straight down. We would always drift forwards slightly, which was really annoying. 
+That was a colossal failure. The swimming pools made REALLY tiny targets, and we couldn't just drop straight down. We would always drift forwards slightly, which was really annoying. 
 
 The worst part was that, after all that falling and dying, once we finally landed in the pool we still took fall damage. How do people do it without dying? 
 
