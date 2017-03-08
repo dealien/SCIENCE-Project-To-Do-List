@@ -12,8 +12,11 @@
    width: 350px;
    height: 100px;
    box-sizing: border-box;
-   font-size: 10pt;
    resize: none;
+}
+
+h2 {
+   font-size: 1.5em;
 }
 
 input,
@@ -30,6 +33,7 @@ div.chat-frame {
    border-width: thin;
    border-radius: 3px;
    color: #f9f9f9;
+   font-size: 10pt;
 }
 
 div[class*="embossed"] {
