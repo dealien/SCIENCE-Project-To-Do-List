@@ -23,6 +23,7 @@ h2 {
 input,
 textarea {
    font-family: monospace;
+   color: #000;
 }
 
 div.chat-frame {
