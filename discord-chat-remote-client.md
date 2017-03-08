@@ -17,6 +17,7 @@
 
 h2 {
    font-size: 1.5em;
+   color: #f9f9f9;
 }
 
 input,
@@ -32,7 +33,6 @@ div.chat-frame {
    border: #666;
    border-width: thin;
    border-radius: 3px;
-   color: #f9f9f9;
    font-size: 10pt;
 }
 
