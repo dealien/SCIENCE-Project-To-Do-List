@@ -9,7 +9,7 @@ This is a list of players with whom members of the [Disciples of SCIENCE](https:
 | <span>DuckterZoidberg</span> | <span class="crew">5 zoid</span> |       |
 | <span>HeyitsJim</span>       | <span class="crew">1 snce</span> |       |
 | <span>YourDriverJim</span>       | <span class="crew">4 snce</span> | Formerly <span>HeyitsJim</span> |
-| <span>TroyFoxxin</span>      | <span class="crew">2 snce</span> |       |
+| <span>TroyFoxxin</span>      | <span class="crew">2 snce</span> | Changed name from ClemFoxxin |
 | <span>muhmem9268-</span>     | <span class="crew">0 ????</span> |       |
 | <span>Grapes1023</span>      | <span class="crew">4 snce</span> |       |
 | <span>Nihiliz</span>         | <span class="crew">0 ????</span> |       |
