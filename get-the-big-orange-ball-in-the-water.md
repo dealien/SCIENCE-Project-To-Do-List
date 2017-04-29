@@ -11,7 +11,7 @@ There is a big orange ball on top of two different stalls in Los Santos; one is 
 
 ## Report
 
-The ball was really hard to move. All the collisions made our vehicles start to drive up the side of the ball, and sometimes the ball only existed for some people and not others. Eventually we managed to push it into the water (with the help of YourCaptainJim's Hydra's explosive cannon), but the ball sunk like a rock. 
+The ball was really hard to move. All the collisions made our vehicles start to drive up the side of the ball, and sometimes the ball only existed for some people and not others. Eventually we managed to push it into the water (with the help of the explosive cannon on YourCaptainJim's Hydra), but the ball sunk like a rock. 
 
 It was slightly disappointing because the ball looks a lot like a giant inflatible beach ball, but oh well. It was fun anyway. 
 
