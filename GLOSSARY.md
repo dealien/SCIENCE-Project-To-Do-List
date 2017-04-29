@@ -6,7 +6,7 @@ A delivery truck. It resembles those used by real-life companies such as Poland 
 
 ## Cargobob
 
-It's the giant, twin-engine helicopter. It can pick up and carry vehicles underneath it using a deployable hook. It can be purchased from Warstock Cache & Carry. It can carry 6 people.
+A giant, twin-engine helicopter. It can pick up and carry vehicles underneath it using a deployable hook. It can be purchased from Warstock Cache & Carry. It can carry 6 people.
 
 ## Dump
 
