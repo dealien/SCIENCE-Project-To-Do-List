@@ -9,4 +9,4 @@ Visit the [crew page](https://socialclub.rockstargames.com/crew/disciples_of_sci
 ### Current Projects
 * Put a Rhino on a train
 * Come up with some fun, replayable challenges to do in freemode
-* Get the big orange ball in the water
+* General Firetruck tomfoolery
