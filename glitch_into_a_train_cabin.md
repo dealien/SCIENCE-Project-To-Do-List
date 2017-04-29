@@ -4,7 +4,7 @@
 
 **Completed By:** <span>VyrenGames</span>, <span>cncman30</span>, <span>frncloud</span>
 
-**Completion Date:** N/A
+**Completion Date:** March, 2017
 
 
 ## Info
