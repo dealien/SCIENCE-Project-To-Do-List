@@ -55,4 +55,4 @@ Buses can be found randomly driving throughout Los Santos. They are more common 
 The Phantom Wedge is a special version of the Phantom truck cab with a large car plow mounted on the front. It was added in the Import/Export update. It can be purchased from Warstock Cache & Carry for $2,553,600 or $1,920,000 \(SecuroServ trade price\).
 
 ## Hydra
-An old VTOL fighter jet. It can be purchased from Warstock Cache & Carry for $3,990,000 or $3,000,000 (after completing the Humane Raid - EMP heist setup mission). 
+An old VTOL fighter jet. It can be purchased from Warstock Cache & Carry for $3,990,000 or $3,000,000 (after completing the Humane Labs Raid - EMP mission). 
