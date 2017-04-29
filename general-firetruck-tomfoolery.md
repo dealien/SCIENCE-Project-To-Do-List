@@ -13,7 +13,7 @@ Things to try:
 * Put out rockets in midair or when they impact an object to minimize or prevent damage
 * Keep a damaged Rhino (or other vehicle) from blowing up when heavily damaged by spraying the fire
 * Put out a Molotov Cocktail in midair
-* 
+* Find out what happens when you spray someone while they're parachuting
 
 ## Report
 
