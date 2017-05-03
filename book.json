@@ -1,7 +1,7 @@
 {
 	"plugins": [
-        "scripts",
-		"theme-faq"
+	    "scripts",
+            "theme-faq"
 	],
     
     "pluginsConfig": {
