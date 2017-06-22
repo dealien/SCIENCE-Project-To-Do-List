@@ -2,7 +2,7 @@
 * Put a Rhino on a train
 * Come up with some fun, replayable challenges to do in freemode
 * General Firetruck tomfoolery
-* Put an APC on a Train
+* Pull a Mobile Ops Center with a Phantom Wedge
 
 ### Info
 This is a list of all the SCIENCE projects undertaken by the [Disciples of SCIENCE](https://socialclub.rockstargames.com/crew/disciples_of_science) crew in Grand Theft Auto: Online. It is written and updated by none other than their leader, <span>VyrenGames</span>.
