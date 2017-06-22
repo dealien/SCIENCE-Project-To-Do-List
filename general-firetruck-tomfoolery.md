@@ -1,13 +1,13 @@
-# General Firetruck tomfoolery
+# General Fire Truck tomfoolery
 
-**Status:** <span class="status todo">To Do</span>
+**Status:** <span class="status success">Partial Success</span>
 
 **Completed By:** N/A
 
 **Completion Date:** N/A
 
 ## Info
-So you've stolen many Firetrucks and used them to wash your cars for free, role play as firefighters, and generally troll your friends (and your enemies too). But have you ever wondered the extent of the Firetrucks' godly power? Well now it's time to find out! 
+So you've stolen many Fire Trucks and used them to wash your cars for free, role play as firefighters, and generally troll your friends (and your enemies too). But have you ever wondered the extent of the Fire Trucks' godly power? Well now it's time to find out! 
 
 Things to try: 
 * Put out rockets in midair or when they impact an object to minimize or prevent damage
@@ -16,5 +16,4 @@ Things to try:
 * Find out what happens when you spray someone while they're parachuting
 
 ## Report
-
-## Records
+Sadly, the Fire Truck was not able to stop explosives, rockets, or vehicles from blowing up, but it was very good at spraying people to death and puting out fires. At least it's good at its intended job! 
