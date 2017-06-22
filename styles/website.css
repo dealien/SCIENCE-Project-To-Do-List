@@ -126,6 +126,13 @@ span.suspended {
   border-color: #c19b07
 }
 
+span.impromptu {
+  background: #bc49ff;
+  background-image: -webkit-linear-gradient(#bc49ff, #983bce);
+  background-image: linear-gradient(#bc49ff, #983bce);
+  border-color: #77399b
+}
+
 
 /* End Status Marker Style */
 
