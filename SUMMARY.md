@@ -18,4 +18,5 @@
 * [Get the big orange ball in the water](get-the-big-orange-ball-in-the-water.md)
 * [General Firetruck tomfoolery](general-firetruck-tomfoolery.md)
 * [Put an APC on a Train](put-an-apc-on-a-train.md)
+* [Take cover on a Taco Truck](take-cover-on-a-taco-truck.md)
 

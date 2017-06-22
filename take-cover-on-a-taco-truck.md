@@ -2,7 +2,7 @@
 
 **Status:** <span class="status success">Success</span>
 
-**Completed By:** <span>VyrenGames</span>, <span>Wojak.</span>, <span>Grapes1023</span>, <span>ZACHATTACK7000</span>, <span>Grapes1023</span>, <span>--Zephyr--</span>
+**Completed By:** <span>VyrenGames</span>, <span>Wojak.</span>, <span>Grapes1023</span>, <span>ZACHATTACK7000</span>, <span>Grapes1023</span>
 
 **Completion Date:** June 22, 2017
 
