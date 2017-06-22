@@ -11,7 +11,7 @@ So you've stolen many Fire Trucks and used them to wash your cars for free, role
 
 Things to try: 
 * Put out rockets in midair or when they impact an object to minimize or prevent damage
-* Keep a damaged Rhino (or other vehicle) from blowing up when heavily damaged by spraying the fire
+* Keep a damaged Rhino Tank (or other vehicle) from blowing up when heavily damaged by spraying the fire
 * Put out a Molotov Cocktail in midair
 * Find out what happens when you spray someone while they're parachuting
 

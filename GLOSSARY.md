@@ -21,8 +21,8 @@ Abbreviation for Motorcycle Club
 ## Prison Bus
 The small, blue bus sometimes seen at or around Bolingbroke Penitentiary. It can be purchased from Warstock Cache & Carry for $550,000 after completing The Prison Break \(heist finale\). It can seat 11 people.
 
-## Rhino
-The Rhino is the only tank in GTA V. It can be purchased from Warstock Cache & Carry for $1,500,000. It can seat 1 person.
+## Rhino Tank
+The Rhino Tank is the only tank in GTA V. It can be purchased from Warstock Cache & Carry for $1,500,000. It can seat 1 person.
 
 ## SuperVolito Carbon
 A luxury helicopter that spawns on luxury yachts. It is an upgraded version of the standard SuperVolito helicopter. It can be purchased from Elitas Travel for $3,330,000.
@@ -53,3 +53,9 @@ Can put out fires. It can hold 8 people. The driver's weapon is replaced with th
 The Mobile Operations Center (MOC) is a modular semi-trailer featured in the Gunrunning update for Grand Theft Auto Online. It can be purchased from Warstock Cache & Carry for $1,225,000-2,790,000. 
 
 The cab and trailer are very resistant to damage, requiring 10 Buzzard Attack Chopper rockets to destroy the cab with seemingly no ill-effects on the trailer. 
+
+## Tank
+_See Rhino Tank_
+
+## Rhino
+_See Rhino Tank_
