@@ -17,6 +17,6 @@
 * [Discord Chat Remote Client](discord-chat-remote-client.md)
 * [Get the big orange ball in the water](get-the-big-orange-ball-in-the-water.md)
 * [General Fire Truck tomfoolery](general-firetruck-tomfoolery.md)
-* [Put an APC on a train](put-an-apc-on-a-train.md)
+* [Put an APC and a Half-Track on a train](put-an-apc-on-a-train.md)
 * [Take cover on a Taco Truck](take-cover-on-a-taco-truck.md)
 
