@@ -1,6 +1,6 @@
 # General Fire Truck tomfoolery
 
-**Status:** <span class="status success">Partial Success</span>
+**Status:** <span class="status partial">Partial Success</span>
 
 **Completed By:** N/A
 
