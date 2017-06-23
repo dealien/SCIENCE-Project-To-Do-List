@@ -1,7 +1,6 @@
 ### Current Projects
 * Put a Rhino on a train
-* Come up with some fun, replayable challenges to do in freemode
-* General Firetruck tomfoolery
+* General Fire Truck tomfoolery
 * Pull a Mobile Operations Center with a Phantom Wedge
 
 ### Info
