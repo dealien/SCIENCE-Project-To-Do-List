@@ -1,4 +1,4 @@
-# Put an APC and a Half-Track on a Train
+# Put an APC and a Half-Track on a train
 
 **Status:** <span class="status success">Success</span>
 
@@ -7,6 +7,6 @@
 **Completion Date:** June 22, 2017
 
 ## Info
-Because that would be so much better than the tank. With all that firepower we'd be unstoppable. Not really, but a battle-train in GTA V?! Sweet!
+Because that would be so much better than the Rhino Tank. With all that firepower we'd be unstoppable. Not really, but a battle-train in GTA V?! Sweet!
 
 ## Report
