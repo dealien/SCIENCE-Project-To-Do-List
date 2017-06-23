@@ -1,6 +1,6 @@
 # Pick up a Bus with a Cargobob
 
-**Status:** <span class="status success">Success (Partial)</span>
+**Status:** <span class="status success">Partial Success</span>
 
 **Completed By:** N/A
 
