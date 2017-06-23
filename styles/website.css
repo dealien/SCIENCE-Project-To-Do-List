@@ -128,8 +128,8 @@ span.suspended {
 
 span.impromptu {
   background: #bc49ff;
-  background-image: -webkit-linear-gradient(#bc49ff, #983bce);
-  background-image: linear-gradient(#bc49ff, #983bce);
+  background-image: -webkit-linear-gradient(#d89afd, #bd56f9);
+  background-image: linear-gradient(#d89afd, #bd56f9);
   border-color: #77399b
 }
 
