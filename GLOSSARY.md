@@ -3,8 +3,8 @@
 ## Benson
 A delivery truck. It resembles those used by real-life companies such as Poland Springs. It often used in crate sale police busts to block off an alley or road. We have also found them during certain Motorcycle Club missions. It cannot be purchased.
 
-## Buzzard
-_See Buzzard Attack Chopper_
+## Buzzard Attack Chopper
+The Buzzard is a light attack helicopter, and is the main chopper used by Merryweather Security forces. It is also the primary aircraft used by Organizations as it can be called for free (if owned) from the SecuroServ section of the interaction menu. It can be purchased from Warstock Cache & Carry for $1,750,000. 
 
 ## Cargobob
 A giant, twin-engine helicopter. It can pick up and carry vehicles underneath it using a deployable hook. It can be purchased from Warstock Cache & Carry. It can carry 6 people.
@@ -63,5 +63,5 @@ _See Rhino Tank_
 ## Rhino
 _See Rhino Tank_
 
-## Buzzard Attack Chopper
-The Buzzard is a light attack helicopter, and is the main chopper used by Merryweather Security forces. It is also the primary aircraft used by Organizations as it can be called for free (if owned) from the SecuroServ section of the interaction menu. It can be purchased from Warstock Cache & Carry for $1,750,000. 
+## Buzzard
+_See Buzzard Attack Chopper_
