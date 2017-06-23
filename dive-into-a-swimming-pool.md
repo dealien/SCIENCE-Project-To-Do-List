@@ -16,5 +16,3 @@ That was a colossal failure. The swimming pools made REALLY tiny targets, and we
 The worst part was that after all that falling and dying, when we finally landed in the pool we still took fall damage. How do people do it without dying? 
 
 This requires further investigation, but we can save that for a later date. 
-
-## Records

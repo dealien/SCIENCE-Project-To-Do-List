@@ -7,11 +7,9 @@
 **Date of Attempt:** December 12, 2016
 
 ## Info
-Just a relaxing river cruise, devoid of any fire, explosions or death... No, really. Trust me. 
+Just a relaxing river cruise, devoid of any fire, explosions, and/or death... No, really. Trust me. 
 
 ## Report
-God dammit! That blasted bridge got in the way! It wouldn't have been a problem if we were in a smaller boat, but it was simply too low for the Tug to fit under. 
+GODDAMMIT!!! That blasted bridge got in the way! It wouldn't have been a problem if we were in a smaller boat, but the bridge was simply too low for the Tug to fit under. 
 
-The river was also really shallow, and thus the 
-
-## Records 
+The river was also really shallow, and thus the Tug kept hitting the bottom and getting stuck. 

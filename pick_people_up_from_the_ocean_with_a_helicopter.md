@@ -22,6 +22,3 @@ Clearly different helicopters will work better than others because the Buzzard h
 
 ### Attempt 2
 We did it! It seems that the trick is to get onto either of the weapon racks on the Buzzard, then walk forward. If you try to get into the chopper at the right moment before and as you're falling off then you can. Note that this still skips the animation, so avoid mashing the button or you'll end up jumping into the water again. 
-
-## Records
-

@@ -32,6 +32,3 @@ There has to be a way to open the back. The MC bike delivery missions sometimes 
 We tested a Mule truck that spawned during one of our standard CEO crate runs when the crates had been stolen—the one with its doors open. We had <span>cncman30</span> stand in the back of the truck while we drove it around to see if he would fall out, but he managed to remain standing the entire time. 
 
 This proves that it is indeed possible to use a truck the way in which we want. We just need to find a way to make a truck's doors open, or find a truck with its doors open somewhere that we can use. 
-
-## Records
-
