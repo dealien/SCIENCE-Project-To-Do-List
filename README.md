@@ -10,4 +10,4 @@ Everyone is welcome on our official [Discord server](https://discord.gg/4GHBDpf)
 
 Visit the [crew page](https://socialclub.rockstargames.com/crew/disciples_of_science) on the Rockstar Social Club.
 
-Also, for some reason when you click on an image the first time it doesn't always take you to the correct page. If that happens, just click on the image again.
+Also, sometimes when you click on an image the first time it doesn't take you to the correct page. If that happens, just click on the image again.
