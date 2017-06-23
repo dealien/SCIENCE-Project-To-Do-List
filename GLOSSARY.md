@@ -3,6 +3,9 @@
 ## Benson
 A delivery truck. It resembles those used by real-life companies such as Poland Springs. It often used in crate sale police busts to block off an alley or road. We have also found them during certain Motorcycle Club missions. It cannot be purchased.
 
+## Buzzard
+_See Buzzard Attack Chopper_
+
 ## Cargobob
 A giant, twin-engine helicopter. It can pick up and carry vehicles underneath it using a deployable hook. It can be purchased from Warstock Cache & Carry. It can carry 6 people.
 
@@ -46,16 +49,19 @@ An old VTOL fighter jet. It can be purchased from Warstock Cache & Carry for $3,
 
 It is suggestively based on the British Aerospace Harrier II \(formerly known as the Hawker Siddley Harrier\) a well-known British fighter jet with Vertical Takeoff and Landing \(VTOL\) capabilities.
 
-## Firetruck
-Can put out fires. It can hold 8 people. The driver's weapon is replaced with the water hose. The water spray can be deadly if used long enough. 
+## Fire Truck
+Can put out fires. It can hold 8 people. The driver's weapon is replaced with the water hose. The water spray can be deadly if used on a person for long enough, however vehicles are immune to damage from the spray. 
 
 ## Mobile Operations Center
 The Mobile Operations Center (MOC) is a modular semi-trailer featured in the Gunrunning update for Grand Theft Auto Online. It can be purchased from Warstock Cache & Carry for $1,225,000-2,790,000. 
 
-The cab and trailer are very resistant to damage, requiring 10 Buzzard Attack Chopper rockets to destroy the cab with seemingly no ill-effects on the trailer. 
+The cab and trailer are very resistant to damage, requiring 10 Buzzard rockets to destroy the cab with seemingly no ill-effects on the trailer. 
 
 ## Tank
 _See Rhino Tank_
 
 ## Rhino
 _See Rhino Tank_
+
+## Buzzard Attack Chopper
+The Buzzard is a light attack helicopter, and is the main chopper used by Merryweather Security forces. It is also the primary aircraft used by Organizations as it can be called for free (if owned) from the SecuroServ section of the interaction menu. It can be purchased from Warstock Cache & Carry for $1,750,000. 
