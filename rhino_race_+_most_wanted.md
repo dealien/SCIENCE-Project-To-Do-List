@@ -1,4 +1,4 @@
-# Rhino Tank race + Most Wanted
+# Rhino Tank race + Most Wanted activity
 
 **Status:** <span class="status success">Success</span>
 
