@@ -53,7 +53,7 @@ It is suggestively based on the British Aerospace Harrier II \(formerly known as
 Can put out fires. It can hold 8 people. The driver's weapon is replaced with the water hose. The water spray can be deadly if used on a person for long enough, however vehicles are immune to damage from the spray. 
 
 ## Mobile Operations Center
-The Mobile Operations Center (MOC) is a modular semi-trailer featured in the Gunrunning update for Grand Theft Auto Online. It can be purchased from Warstock Cache & Carry for $1,225,000-2,790,000. 
+The Mobile Operations Center (MOC) is a modular semi-trailer featured in the Gunrunning update for Grand Theft Auto: Online. It can be purchased from Warstock Cache & Carry for $1,225,000-2,790,000. 
 
 The cab and trailer are very resistant to damage, requiring 10 Buzzard rockets to destroy the cab with seemingly no ill-effects on the trailer. 
 
