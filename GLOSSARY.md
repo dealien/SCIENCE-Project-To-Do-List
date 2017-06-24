@@ -57,6 +57,9 @@ The Mobile Operations Center (MOC) is a modular semi-trailer featured in the Gun
 
 The cab and trailer are very resistant to damage, requiring 10 Buzzard rockets to destroy the cab with seemingly no ill-effects on the trailer. 
 
+## MOC
+_See Mobile Operations Center_
+
 ## Tank
 _See Rhino Tank_
 
