@@ -14,7 +14,6 @@
 * [Take a Tug up river from the ocean to Sandy Shores](take-a-tug-up-river-from-the-ocean-to-sandy-shores.md)
 * [Pull a trailer with the Phantom Wedge](pull-a-trailer-with-the-phantom-wedge.md)
 * [Dive into a swimming pool](dive-into-a-swimming-pool.md)
-* [Discord Remote Client](discord-chat-remote-client.md)
 * [Get the big orange ball in the water](get-the-big-orange-ball-in-the-water.md)
 * [General Fire Truck tomfoolery](general-firetruck-tomfoolery.md)
 * [Put an APC and a Half-Track on a train](put-an-apc-on-a-train.md)
