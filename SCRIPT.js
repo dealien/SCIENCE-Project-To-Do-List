@@ -26,15 +26,15 @@ function crewTags() {
   console.log("Running function crewTags()");
   $('span.crew').replaceWith(function() {
     var val = $.trim($(this).text());
-    console.log("val = " + val);
+    // console.log("val = " + val);
     var rank = (val.match(/\d+\.\d+|\d+\b|\d+(?=\w)/g) || []).map(function(v) {
       return +v;
     }).shift();
     if (rank > 5) {
       rank = 5
-      console.log("'rank' too large. Changed to '5'");
+      // console.log("'rank' too large. Changed to '5'");
     }
-    console.log("rank = " + rank);
+    // console.log("rank = " + rank);
     var crew = val.substr(val.length - 4).toLowerCase();
     var tag = '<div class="crew-tag private"><span class="crew-tag-name">' + crew + '</span><div class="hierarchy" title="">'
     if (rank > 0) {
