@@ -4,4 +4,6 @@ This was the inspiration for the creation of the Disciples of SCIENCE. In the ev
 
 At that point, they wondered, "If we fly a Cargobob carrying something past that boundary, will they detatch or remain connected as they fall out of the sky?" So, while <span>Vltor</span> went to find a suitable vehicle, <span>VyrenGames</span> went to LSIA to get a Cargobob. 
 
-We eventually decided on a Buccaneer, removed the roof, and fully pimped it out at Benny's. We then found a hooker and got her in the car with <span>Vltor</span>, while in the meantime <span>Grapes1023</span> had gotten in the Cargobob with me. 
+They eventually decided on a Buccaneer, removed the roof, and fully pimped it out at Benny's. They then found a hooker and got her in the car with <span>Vltor</span>, while in the meantime <span>Grapes1023</span> had gotten in the Cargobob. 
+
+At exactly 0:00, the four of them flew out over the ocean where they eventually plummeted into the water below. Thus the Disciples of SCIENCE crew was born. The all-mighty SCIENCE was very pleased that day. 
