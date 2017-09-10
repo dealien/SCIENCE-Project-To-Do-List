@@ -18,4 +18,5 @@
 * [General Fire Truck tomfoolery](general-firetruck-tomfoolery.md)
 * [Put an APC and a Half-Track on a train](put-an-apc-on-a-train.md)
 * [Take cover on a Taco Truck](take-cover-on-a-taco-truck.md)
+* [The Original SCIENCE Project](the-original-science-project.md)
 
