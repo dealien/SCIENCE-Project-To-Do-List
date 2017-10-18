@@ -19,4 +19,5 @@
 * [Put an APC and a Half-Track on a train](put-an-apc-on-a-train.md)
 * [Take cover on a Taco Truck](take-cover-on-a-taco-truck.md)
 * [The Original SCIENCE Project](the-original-science-project.md)
+* [Does Bullshark Testosterone protect from instant headshot kills](does-bullshark-testosterone-protect-from-instant-headshot-kills.md)
 
