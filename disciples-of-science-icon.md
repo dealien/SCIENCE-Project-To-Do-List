@@ -1,4 +1,4 @@
-Disciples of SCIENCE Vector Icon ([Direct Link](/assets/Disciples of SCIENCE Icon.svg))f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f
+Disciples of SCIENCE Vector Icon ([Direct Link](/assets/Disciples of SCIENCE Icon.svg))
 <br>
 ![](/assets/Disciples of SCIENCE Icon.svg)
 
