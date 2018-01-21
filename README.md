@@ -11,4 +11,4 @@ Everyone is welcome on our official [Discord server](https://discord.gg/4GHBDpf)
 Also, sometimes when you click on an image on this site for the first time it doesn't link you to the correct page. If that happens, just click on the image again.
 
 ### Resources
-Disciples of SCIENCE Icon
+[Disciples of SCIENCE Icon](/disciples-of-science-icon.md)
